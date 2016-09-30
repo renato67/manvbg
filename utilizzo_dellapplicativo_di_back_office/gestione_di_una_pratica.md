@@ -14,7 +14,7 @@ i passi, verranno codificati e all’ interno del programma, avranno questo aspe
 
 ### Gestione dei Movimenti {#gestione-dei-movimenti}
 
-![](../assets/immagine60.jpg)Viene ora illustrato come, all’ interno del movimento, possa essere percorsa la strada di default o variare i parametri e seguire un percorso diverso. Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esempio sulla possibilità di cambiare il percorso predefinito di un movimento\) le possibilità offerte per la gestione di un documento.La freccia rossa indica i pulsanti di cui parleremo in questo esempio.
+![](../assets/immagine60.jpg)Viene ora illustrato come, all’ interno del movimento, possa essere percorsa la strada di default o variare i parametri e seguire un percorso diverso. Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esempio sulla possibilità di cambiare il percorso predefinito di un movimento\) le possibilità offerte per la gestione di un documento. La freccia rossa indica i pulsanti di cui parleremo in questo esempio.
 
 Il tasto
 
