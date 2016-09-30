@@ -20,7 +20,23 @@ Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esem
 
 Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlato \(SALVA ELIMINA CHIUDI...\), ci concentreremo quindi sugli altri:
 
- ![](/assets/btn_cre_allegato.jpg) il pulsante, permette l' apertura della scheda seguente
+![](/assets/btn_cre_allegato.jpg) il pulsante, permette l' apertura della scheda seguente
 
-![](/assets/sk_crea_allegato.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
