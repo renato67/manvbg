@@ -2,9 +2,11 @@
 
 Il flusso di informazioni e passi procedurali atti alla gestione di una pratica \(Istanza\), viene stabilito nel momento in cui un Comune decide di adottare questo sistema per la gestione delle proprie pratiche.In tale momento, vengono decisi gli attori \(ovvero gli uffici che gestiranno le informazioni\) le procedure e i tempi con cui queste ultime potranno essere gestite.
 
+vediamo un esempio del funzionamento di un processo. A seguito dell’ incontro fra le figure citate, verrà stilato un diagramma di flusso, che, nel caso descritto è il seguente:
+
 ![](../assets/immagine57.jpg)
 
-vediamo un esempio del funzionamento di un processo. A seguito dell’ incontro fra le figure citate, verrà stilato un diagramma di flusso, che, nel caso descritto è il seguente:
+
 
 i passi, verranno codificati e all’ interno del programma, avranno questo aspetto:
 
