@@ -6,11 +6,9 @@ vediamo un esempio del funzionamento di un processo. A seguito dell’ incontro 
 
 ![](../assets/immagine57.jpg)
 
-
-
 i passi, verranno codificati e all’ interno del programma, avranno questo aspetto:
 
-![](../assets/immagine58.jpg)nelle due aree cerchiate in rosso, si posso vedere i M**ovimenti** che sono stati eseguiti \(in verde\) e quelli ancora da eseguire \(in blu\).Si può aprire la pagina di dettaglio di uno specifico movimento, cliccando sul nome e pfremendo il tasto INSERISCI.
+![](../assets/immagine58.jpg)nelle due aree cerchiate in rosso, si posso vedere i M**ovimenti** che sono stati eseguiti \(in verde\) e quelli ancora da eseguire \(in blu\).Si può aprire la pagina di dettaglio di uno specifico movimento, cliccando sul nome e premendo il tasto INSERISCI.
 
 ![](../assets/immagine59.jpg)I paramentri sono tutti modificabili, ma E’ CONSIGLIATO NON MODIFICARLI poiché il loro cambiamento di stato, si rifletterà sul flusso della pratica. Nell immagine la freccia rossa, indica il campo che all’ interno del movimento \(in questo caso l’ esito del controllo documentale\) è soggetto al giudizio dell’ operatore \(quindi, abitualmente modificato da esso\).
 
