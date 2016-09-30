@@ -22,21 +22,5 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 
 ![](/assets/btn_cre_allegato.jpg) il pulsante, permette l' apertura della scheda seguente
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/sk_crea_allegato.jpg)
 
