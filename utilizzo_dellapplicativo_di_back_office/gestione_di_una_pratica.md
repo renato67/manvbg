@@ -22,6 +22,7 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 
 ![](/assets/btn_cre_allegato.jpg) il pulsante, permette l' apertura della scheda seguente
 
+![](/assets/sk_crea_allegato.jpg)
 
-la scheda permette la selezione di un documento contenente dei campi  - precedentemente definiti - allegati al movimento in fase di preparazione della procedura. Se tali documenti non sono presenti \(come si vede nel messaggio\) è possibile \(spuntando i flag indicati dalla freccia 1 e 3\), oppure
+la scheda permette la selezione di un documento contenente dei campi  - precedentemente definiti - allegati al movimento in fase di preparazione della procedura. Se tali documenti non sono presenti è possibile \(spuntando i flag indicati dalla freccia 1 e 2, oppure
 
