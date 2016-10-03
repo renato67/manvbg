@@ -12,7 +12,7 @@ i passi, verranno codificati e all’ interno del programma, avranno questo aspe
 
 ![](../assets/immagine59.jpg)I paramentri sono tutti modificabili, ma E’ CONSIGLIATO NON MODIFICARLI poiché il loro cambiamento di stato, si rifletterà sul flusso della pratica. Nell immagine la freccia rossa, indica il campo che all’ interno del movimento \(in questo caso l’ esito del controllo documentale\) è soggetto al giudizio dell’ operatore \(quindi, abitualmente modificato da esso\).
 
-## Gestione dei Movimenti
+Gestione dei Movimenti
 
 ![](../assets/immagine60.jpg)Viene ora illustrato come, all’ interno del movimento, possa essere percorsa la strada di default o variare i parametri e seguire un percorso diverso.
 
