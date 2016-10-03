@@ -26,7 +26,7 @@ Le voci di menu selezionabili per accedere ad una funzionalità dell’applicati
 
 NB: per navigare attraverso le varie voci del menu è preferibile passarci sopra con il cursore del mouse senza effettuare click. In alcuni browser la selezione tramite il pulsante sinistro del mouse può causare problemi nell’apertura della sezione: se ciò dovesse accadere è sufficiente effettuare una selezione differente e riprovare.
 
-### Pulsantiera {#pulsantiera}
+## Pulsantiera
 
 Quando dal menu viene attivata una funzionalità, nella parte bassa dello schermo sono sempre presenti una serie di pulsanti rossi, come mostrato in figura:
 
@@ -40,7 +40,7 @@ I pulsanti presenti possono variare al variare della funzionalità, di seguito, 
 
 ![](../assets/immagine12.png):permette di eliminare un record
 
-### Tabelle {#tabelle}
+## Tabelle
 
 Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di gestione delle istanze che verrà dettagliata separatamente\) viene mostrata una tabella con la visualizzazione dei record presenti. Per maggiore chiarezza concentriamo l’esempio su una funzionalità specifica \(lo stradario\) in modo da vedere le possibili operazioni effettuabili: quanto descritto può essere semplicemente esteso a qualunque altra funzionalità.
 
@@ -48,7 +48,7 @@ Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di g
 
 ![](../assets/immagine7.png)
 
-### Campi di input referenziati {#campi-di-input-referenziati}
+## Campi di input referenziati
 
 ![](../assets/immagine43.jpg)Si tratta di un tipo dato che ha, come caratteristica quella di proporre i record del DB che contengono la sequenza dati digitata
 
