@@ -46,13 +46,13 @@ A seguito dell’ inserimento di una istanza, è possibile editarla nuovamente p
 
 ![](../assets/immagine20.png)selezionandolo si aprirà la pagina con tutti gli allegati dei procedimenti attivati.![](../assets/immagine21.png)![](../assets/immagine22.png)Rende disponibile l’elenco dei procedimenti con i dettagli. ![](../assets/immagine23.png)Rimanda alla pagina di “elaborazione” istanza.chiude la pagina e rimanda a quella precedentemente utilizzata.
 
-#### Schede {#schede}
+### Schede
 
 ![](../assets/immagine24.jpg)Schede aggiuntive per l’imputazioni di dati relativi a Interventi o Endoprocedimenti si trovano in questa sezione.
 
 ![](../assets/immagine25.png):Salva le modifiche apportate alle schede.![](../assets/immagine26.png):Ritorna alla pagina precedente.
 
-#### Soggetti colegati {#soggetti-colegati}
+### Soggetti colegati
 
 ![](../assets/immagine27.jpg)Sono censiti in questa scheda i soggetti \(fisici o giuridici\) che non trovano posizione fra i campi principali della Istanza. Vengono selezionate dall’ archivio Anagrafe esistente per i vari soggetti.
 
@@ -60,29 +60,29 @@ All’ anagrafica selezionata potranno essere aggiunti documenti che ne comprovi
 
 Il tasto copia soggetti collegati ha la funzione di incorporare \(fra i soggetti collegati\) le anagrafiche presenti all’ interno della medesima sezione \(Soggetti collegati\) della Istanza madre.
 
-#### Documenti {#documenti}
+### Documenti
 
 ![](../assets/immagine28.jpg)In **ROSSO** è evidenziata la sezione che contiene gli allegati collegati all’intervento scelto e i pdf generati dopo la compilazione dalle schede dinamiche dell’istanza.Nella sezione evidenziata in **BLU** è presente l’eventuale procura.Per concludere in **VIOLA** è evidenziata la sezione che contiene gli allegati collegati agli endoprocedimenti.Per ciascun allegato l’icona ![](../assets/immagine32.png) indica che si tratta di file firmati digitalmente: la selezione dell’icona stessa permette di visualizzare i dettagli della firma, verificandone la validità, e di scaricare il file nel formato originale \(ovvero senza estensione .p7m\) utilizzando il programma associato nel proprio pc.I pulsanti, per i quali è necessaria una spiegazione oltre a quelli già conosciuti, sono![](../assets/immagine33.png)
 
 * ”Allinea i Documenti”: controlla la coerenza fra i documenti inseriti nell’ Istanza e quelli indicati come obbligatori al momento della creazione della procedura.Per gli altri, il nome espone chiaramente la funzione assolta.
 
-#### Gestione oneri {#gestione-oneri}
+### Gestione oneri
 
 ![](../assets/immagine34.jpg)![](../assets/immagine35.jpg)In questa scheda si trova la sintesi dei movimenti finanziari \(dovuti o ricevuti\) per l’ operazione descritta dalla Istanza.il tasto STAMPE permette la produzione di un file .rtf \(interamente configurabile\) da poter stampare.I campi a disposizione permettono il trattamento dell’ onere in maniera granulare.Ai già esistenti se ne possono aggiungere altri \(tasto NUOVO tramite la maschera sotto riportata\)
 
-#### Autoriz.\/conc. {#autoriz-conc}
+### Autoriz.\/conc.
 
 ![](../assets/immagine36.jpg)![](../assets/immagine37.jpg)Tramite questa maschera, è possibile gestire i registri \(creati nella sezione apposita\). Per ogni voce è possibile annotarne vari campi \(come da immagini sottostanti\).Le due maschere, hanno campi simili, \(REGISTRO, NUMERO, SCADENZA ed altro\) l’ interpretazione èfacilmente desumibile dal contesto
 
-#### Stampe {#stampe}
+### Stampe
 
 La sezione, permette di configurare stampe in risposta ad eventi generati dal sistema.
 
-#### Istanze collegate {#istanze-collegate}
+### Istanze collegate
 
 Alcune istanze possono essere collegate per fini pratici. Quest’ area permette il collegamento.
 
-#### Altre funzioni {#altre-funzioni}
+### Altre funzioni
 
 ![](../assets/immagine38.jpg)![](../assets/immagine39.jpg)Selezionando la scheda, viene aperto il seguente pannellotramite il tasto INFO è possibile avere informazioni sulla Istanza e, ad esempio, \(come da immagine\), il termine stimato, variarne lo stato;quindi salvare le modifiche.
 
