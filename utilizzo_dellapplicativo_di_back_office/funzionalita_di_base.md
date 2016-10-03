@@ -52,11 +52,11 @@ Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di g
 
 ![](../assets/immagine43.jpg)Si tratta di un tipo dato che ha, come caratteristica quella di proporre i record del DB che contengono la sequenza dati digitata
 
-### Campi di input di tipo data {#campi-di-input-di-tipo-data}
+## Campi di input di tipo data
 
 ![](../assets/immagine44.jpg)Dove compare l’ icona calendario \(come evidenziato dalla freccia nell’ immagine sottostante\)tramite il click sopra di esso, sarà possibile visualizzare un calendario che propone di default il giorno corrente, ma è modificabile a piacimento per poter selezionare la data voluta.
 
-### Upload di un file {#upload-di-un-file}
+## Upload di un file
 
 All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/immagine45.jpg) verrà visualizzata la seguente pagi![](../assets/immagine46.jpg)nain questa tabella, sono visibile tutti i documenti presenti la loro posizione all’ interno all’ interno della Istanza \(endoprocedimenti, movimenti\)Cliccando il pulsante “Nuovo” è possibile inserire un nuovo file. Nella descrizione è possibile inserire il nome del documentoSu documento da allegare “Allega un file”, selezionando **scegli file** è possibile determinare il documento desiderato. Cliccando su “inserisci” viene caricato il documento.
 
