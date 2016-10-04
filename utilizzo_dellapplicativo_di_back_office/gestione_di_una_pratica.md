@@ -30,9 +30,11 @@ la scheda permette la selezione di un documento contenente dei campi  - preceden
 
 E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
 
-## Caricamento di un documento
+## Caricamento di un documento dal _movimento_
 
 E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite la pressione del tasto
 
-![](/assets/btn_allegati.jpg) 
+![](/assets/btn_allegati.jpg)
+
+viene visualizzata la videata che elenca gli allegati al movimento. Se non è presente l' allegato 
 
