@@ -36,5 +36,19 @@ E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analiz
 
 ![](/assets/btn_allegati.jpg)
 
-viene visualizzata la videata che elenca gli allegati al movimento. Se non è presente l' allegato 
+viene visualizzata la pagina che elenca gli allegati al movimento. Se non è presente l' allegato interessato, è possibile caricare un qualsiasi tipo di file.
+
+![](/assets/sk_ins_new_doc.jpg)
+
+tramite il tasto indicato in figura, si aprirà questa finestra:
+
+![](/assets/sk_allega_doc.jpg)
+
+infine, tramite il tasto indicato dalla freccia, verrà proposto questo pannello
+
+![](/assets/sk_allega_2.jpg)
+
+che permetterà l' apertura della scheda, atta alla selezione di un file.
+
+
 
