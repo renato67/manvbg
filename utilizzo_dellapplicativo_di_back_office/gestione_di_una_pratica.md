@@ -26,17 +26,7 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 
 ![](/assets/sk_crea_allegato.jpg)
 
-la scheda permette la selezione di un documento contenente dei campi  - precedentemente definiti - allegati al movimento in fase di preparazione della procedura. Se tali documenti non sono presenti è possibile \(spuntando i flag indicati dalla freccia 1 e 2\) tramite il carattere jolly immesso nel campo di ricerca \(%\) vedere la lista di tutti i documenti caricati nella libreria. E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
+la scheda permette la selezione di un documento contenente dei campi  - precedentemente definiti - allegati al movimento in fase di preparazione della procedura. Se tali documenti non sono presenti è possibile \(spuntando i flag indicati dalla freccia 1 e 2\) tramite il carattere jolly immesso nel campo di ricerca \(%\) vedere la lista di tutti i documenti caricati nella libreria. ![](/assets/sk_crea_allegato2.jpg)
 
-![](/assets/sk_crea_allegato2.jpg)
-
-
-
-
-
-sdfsdfsdfsd
-
-
-
-
+E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
 
