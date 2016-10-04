@@ -18,7 +18,7 @@ i passi, verranno codificati e all’ interno del programma, avranno questo aspe
 
 Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esempio sulla possibilità di cambiare il percorso predefinito di un movimento\) le possibilità offerte per la gestione di un documento. La freccia rossa \(figura sopra\) indica i pulsanti di cui parleremo in questo esempio.
 
-Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlato \(SALVA ELIMINA CHIUDI...\), ci concentreremo quindi sugli altri:
+Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlato \(SALVA ELIMINA CHIUDI...\),Ci concentreremo quindi sugli altri:
 
 ![](/assets/btn_cre_allegato.jpg) il pulsante, permette l' apertura della scheda seguente
 
