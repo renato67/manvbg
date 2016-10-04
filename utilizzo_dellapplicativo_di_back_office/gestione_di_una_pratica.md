@@ -48,7 +48,5 @@ infine, tramite il tasto indicato dalla freccia, verrà proposto questo pannello
 
 ![](/assets/sk_allega_2.jpg)
 
-che permetterà l' apertura della scheda, atta alla selezione di un file.
-
-
+che permetterà l' apertura della scheda, atta alla selezione di un file\(caratteristica del proprio sistema operativo\).
 
