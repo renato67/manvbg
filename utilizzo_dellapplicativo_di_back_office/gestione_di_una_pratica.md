@@ -32,7 +32,7 @@ E' bene ricordare che i documenti devono essere stati caricati nell' apposita li
 
 ## Caricamento di un documento
 
-Come detto, un documento, per poter essere disponibile, deve essere stato caricato nella libreria del programma. Vediamo i passi da eseguire per l' operazione:
+E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite la pressione del tasto
 
-
+![](/assets/btn_allegati.jpg) 
 
