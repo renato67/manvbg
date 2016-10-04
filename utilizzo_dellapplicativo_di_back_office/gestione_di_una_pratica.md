@@ -30,3 +30,9 @@ la scheda permette la selezione di un documento contenente dei campi  - preceden
 
 E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
 
+## Caricamento di un documento
+
+Come detto, un documento, per poter essere disponibile, deve essere stato caricato nella libreria del programma. Vediamo i passi da eseguire per l' operazione:
+
+
+
