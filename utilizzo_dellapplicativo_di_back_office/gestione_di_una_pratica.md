@@ -16,7 +16,7 @@ i passi, verranno codificati e all’ interno del programma, avranno questo aspe
 
 ![](../assets/immagine60.jpg)Viene ora illustrato come, all’ interno del movimento, possa essere percorsa la strada di default o variare i parametri e seguire un percorso diverso.
 
-Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esempio sulla possibilità di cambiare il percorso predefinito di un movimento\) le possibilità offerte per la gestione di un documento. La freccia rossa indica i pulsanti di cui parleremo in questo esempio.
+Verrà analizzato, all’ iterno del movimento CONTROLLO DOCUMENTALE \(come esempio sulla possibilità di cambiare il percorso predefinito di un movimento\) le possibilità offerte per la gestione di un documento. La freccia rossa \(figura sopra\) indica i pulsanti di cui parleremo in questo esempio.
 
 Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlato \(SALVA ELIMINA CHIUDI...\), ci concentreremo quindi sugli altri:
 
@@ -29,6 +29,4 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 la scheda permette la selezione di un documento contenente dei campi  - precedentemente definiti - allegati al movimento in fase di preparazione della procedura. Se tali documenti non sono presenti è possibile \(spuntando i flag indicati dalla freccia 1 e 2\) tramite il carattere jolly immesso nel campo di ricerca \(%\) vedere la lista di tutti i documenti caricati nella libreria. ![](/assets/sk_crea_allegato2.jpg)
 
 E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
-
-
 
