@@ -56,9 +56,9 @@ tramite il tasto indicato in figura, si aprirà questa finestra:
 
 ![](/assets/sk_allega_doc.jpg)
 
-che permette l' apertura del pannello
+che permette l' apertura della scheda
 
 ![](/assets/sk_allega_2_.jpg)
 
-che permetterà l' apertura della scheda, atta alla selezione di un file\(caratteristica del proprio sistema operativo\).
+infine il tasto verde indicato dalla freccia consente l' apertura della scheda, atta alla selezione di un file\(caratteristica del proprio sistema operativo\).
 
