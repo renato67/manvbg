@@ -44,7 +44,7 @@ Altrimenti è possibile caricare un documento dalla propria macchina alla librer
 
 ## Caricamento di un documento dal _movimento_
 
-E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite il click
+E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite il **click **su
 
 ![](/assets/btn_allegati.jpg)
 
@@ -56,7 +56,7 @@ tramite il tasto indicato in figura, si aprirà questa finestra:
 
 ![](/assets/sk_allega_doc.jpg)
 
-infine, tramite il tasto indicato dalla freccia, verrà proposto questo pannello
+che permette l' apertura del pannello
 
 ![](/assets/sk_allega_2_.jpg)
 
