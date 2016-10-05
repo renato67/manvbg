@@ -44,7 +44,7 @@ Altrimenti è possibile caricare un documento dalla propria macchina alla librer
 
 ## Caricamento di un documento dal _movimento_
 
-E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite la pressione del tasto
+E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite il click
 
 ![](/assets/btn_allegati.jpg)
 
