@@ -40,6 +40,8 @@ Una volta individuato il documento interessato, fra quelli  elencati,
 
 vengono notificate le possibili azioni da compiere sullo stesso.
 
+Altrimenti è possibile caricare un documento dalla propria macchina alla libreria citata tramite il seguente procedimento:
+
 ## Caricamento di un documento dal _movimento_
 
 E' possibile compiere questa operazione, anche dal _movimento_ che stiamo analizzando, tramite la pressione del tasto
