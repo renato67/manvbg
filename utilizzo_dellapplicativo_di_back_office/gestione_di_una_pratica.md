@@ -26,8 +26,6 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 
 come mostrato dal messaggio, non sono presenti documenti allegati al movimento. Occorre quindi crearne uno. E' possibile farlo in due modi:
 
-
-
 ## Crea Documento
 
 ![](/assets/sk_crea_allegato.jpg)
@@ -36,13 +34,11 @@ la scheda permette la selezione di un documento contenente dei campi  - preceden
 
 E' bene ricordare che i documenti devono essere stati caricati nell' apposita libreria per poter essere usati all' interno del programma.
 
-Una volta individuato il documento interessato, fra quelli  elencati, 
+Una volta individuato il documento interessato, fra quelli  elencati,
 
 ![](/assets/sk_allegato_creato.jpg)
 
-vengono notificate le possibili azioni da compiere sul documento.
-
-
+vengono notificate le possibili azioni da compiere sullo stesso.
 
 ## Caricamento di un documento dal _movimento_
 
