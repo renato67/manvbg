@@ -3,6 +3,12 @@
 R.A.Ri. SUAPMANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 
 INDICE
+	This	is	a	test:	{{	piattaforma	}}
+> 
+> 
+
+
+
 
 . Premesse e definizioni3
 
