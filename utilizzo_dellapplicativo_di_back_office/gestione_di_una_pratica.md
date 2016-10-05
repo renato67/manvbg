@@ -62,3 +62,21 @@ che permette l' apertura della scheda
 
 infine il tasto verde indicato dalla freccia consente l' apertura della scheda, atta alla selezione di un file\(caratteristica del proprio sistema operativo\).
 
+## Trasforma \/ Firma \/ Verifica firma
+
+per i documenti caricati e presenti nella lista, è possibile effettuare alcune particolari operazioni quali:
+
+la trasformazione in PDF, la firma in digitale, la verifica della autenticità della firma e la "messa alla firma" del proprio responsabile.
+
+![](/assets/btn_part_sk_doc_1.jpg)
+
+
+
+
+
+
+
+
+
+
+
