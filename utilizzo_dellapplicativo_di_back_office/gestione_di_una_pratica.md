@@ -24,9 +24,7 @@ Non ci soffermeremo sulla spiegazione di alcuni tasti di cui abbiamo già parlat
 
 ![](/assets/sk_crea_allegato_0.jpg)
 
-come mostrato dal messaggio presente in figura, non sono presenti documenti allegati al movimento. Occorre quindi crearne uno. E' possibile farlo in due modi:
-
-
+come mostrato dal messaggio, non sono presenti documenti allegati al movimento. Occorre quindi crearne uno. E' possibile farlo in due modi:
 
 ## Crea Documento
 
@@ -55,6 +53,4 @@ infine, tramite il tasto indicato dalla freccia, verrà proposto questo pannello
 ![](/assets/sk_allega_2_.jpg)
 
 che permetterà l' apertura della scheda, atta alla selezione di un file\(caratteristica del proprio sistema operativo\).
-
-
 
