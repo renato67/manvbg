@@ -5,4 +5,4 @@
     ],
     "pluginsConfig": {}
 }
-{ "variables": { "myVariable": "Hello World" } }
+#{ "variables": { "myVariable": "Hello World" } }
