@@ -1,2 +1,24 @@
-# kljnsdjkn sdklòjn òlk òsdjòkj sdsdf
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  **R.A.Ri. SUAP**
+
+** MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE**
 
