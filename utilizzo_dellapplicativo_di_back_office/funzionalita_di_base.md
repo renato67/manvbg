@@ -68,7 +68,7 @@ Per modificare un documento: Aprire sul icona dettaglio
 
 ![](../assets/immagine16.png): Visualizza il file caricato
 
-![](../assets/immagine17.png):Modifica del file selezionato
+![](../assets/immagine17.png) : Modifica del file selezionato
 
-![](../assets/immagine18.png):Cancella il documento allegato
+![](../assets/immagine18.png) : Cancella il documento allegato
 
