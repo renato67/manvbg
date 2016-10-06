@@ -1,6 +1,6 @@
 # Funzionalità di base
 
-L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale {{ prodotto }}.
+L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale #{{prodotto}}.
 
 ## Login 
 
