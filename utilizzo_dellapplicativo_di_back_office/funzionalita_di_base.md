@@ -64,7 +64,11 @@ All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/imm
 
 Per modificare un documento: Aprire sul icona dettaglio
 
-![](../assets/immagine14.png)![](../assets/immagine15.png): Attiva l’applicativo per effettuare la firma digitale.
+![](../assets/immagine14.png)![](../assets/immagine15.png): Attiva 
+
+
+
+l’applicativo per effettuare la firma digitale.
 
 ![](../assets/immagine16.png): Visualizza il file caricato
 

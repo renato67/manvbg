@@ -3,5 +3,8 @@
         "atoc",
         "etoc"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "variables": {
+        "nome-prodotto": "VBG"
+    }
 }
