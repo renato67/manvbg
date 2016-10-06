@@ -5,6 +5,6 @@
     ],
     "pluginsConfig": {},
     "variables": {
-        "nome-prodotto": "VBG"
+        "nomeProdotto": "VBG"
     }
 }
