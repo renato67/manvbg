@@ -5,3 +5,4 @@
     ],
     "pluginsConfig": {}
 }
+{ "variables": { "prodotto": "Hello World" } }
