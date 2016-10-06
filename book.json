@@ -1,10 +1,13 @@
 {
-    "plugins": [
-        "atoc",
-        "etoc"
-    ],
-    "pluginsConfig": {},
-    "variables": {
-        "nomeProdotto": "VBG"
-    }
+
+ "pluginsConfig": {},
+
+ "variables": [
+
+ "nomeProdotto": "VBG"
+
+ ]
+
 }
+
+
