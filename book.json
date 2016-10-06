@@ -1,13 +1,4 @@
-{
+{ "variables": { "prodotto": "Hello World" } }
 
- "pluginsConfig": {},
-
- "variables": [
-
- "nomeProdotto": "VBG"
-
- ]
-
-}
 
 
