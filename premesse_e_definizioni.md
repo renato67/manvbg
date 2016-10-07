@@ -1,6 +1,6 @@
 # Premesse e definizioni {#premesse-e-definizioni}
 
-{{ book.prodotto }} è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
+Il sistema{{ book.prodotto }} è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
 
 * **click, **pressione del tasto \(indicato\) tramite il mouse  
 
