@@ -1,13 +1,10 @@
 # Manuale {#manuale}
 
-R.A.Ri. SUAPMANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
+R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 
 INDICE
+
 > 
-> 
-
-
-
 
 . Premesse e definizioni3
 
@@ -29,7 +26,7 @@ INDICE
 
 1.7. Upload di un file8
 
-2. Inserimento di una pratica11
+1. Inserimento di una pratica11
 
 2.1. Inserimento di una istanza11
 
@@ -71,11 +68,12 @@ fornisce intuitivamente il tipo di informazione necessaria
 
 2.4.9. Altre funzioni24
 
-3. Ricerca di una pratica24
+1. Ricerca di una pratica24
 
-4. Gestione di una pratica26
+2. Gestione di una pratica26
 
-5. Gestione attività26
+3. Gestione attività26
+
 
 . Configurazione dell’applicativo di Back Office26
 
