@@ -1,4 +1,8 @@
-{ "variables": { "prodotto": "Hello World" } }
+{
+    "variables": {
+        "prodotto": "Hello World"   
+    }
+}
 
 
 
