@@ -1,6 +1,6 @@
 # Premesse e definizioni {#premesse-e-definizioni}
 
-Il sistema R.A.Ri. SUAP è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro: {{ book.prodotto }}
+Il sistema R.A.Ri. SUAP è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro: {{ manuale.prodotto }}
 
 * **click, **pressione del tasto \(indicato\) tramite il mouse
 
