@@ -1,4 +1,4 @@
-# Premesse e definizioni {#premesse-e-definizioni} 
+# Premesse e definizioni {#premesse-e-definizioni}
 
 Il sistema {{ book.prodotto } è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro: 
 
