@@ -9,5 +9,4 @@
     * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestione_di_una_pratica.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
     * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
-* Gestione Attività
 
