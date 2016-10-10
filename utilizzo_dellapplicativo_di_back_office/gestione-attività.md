@@ -4,5 +4,5 @@ Con questo nome, si intende definire l' insieme di **Istanze **che hanno per ogg
 
 ![](/assets/pct_mn_gest_attivita.jpg)
 
-cd
+La maschera che verrà acceduta, presenterà un aspetto già conosciuto, che ricorda la maschera della** Istanza**
 
