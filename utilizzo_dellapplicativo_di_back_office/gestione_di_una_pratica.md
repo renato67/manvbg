@@ -78,3 +78,7 @@ la "messa alla firma" del proprio responsabile.![](/assets/btn_matita.jpg)
 
 nella colonna "Oggetto", si trovano delle icone che  testimoniano lo stato del documento \(nel primo caso, il documento è in formato MS Office ed é possibile firmarlo digitalmente. Nella seconda linea, troviamo un documento che è stato trasformato in formato PDF \(ed è visualizzabile tramite il programma presente sul computer dell' operatore\), è possibile apporre una firma digitale \(anche se è gia stato firmato\) ed è visualizzabile l' integrità della firma apposta.
 
+# Gestione Attività
+
+
+
