@@ -20,5 +20,3 @@ L' immagine seguente, particoleggia le Istanze che fanno parte dell' Attività.
 
 i nomi delle colonne sono conosciute, a parte le ultime 4 \(due delle quali contrasegnate dalle frecce rosse e blu\)
 
-
-
