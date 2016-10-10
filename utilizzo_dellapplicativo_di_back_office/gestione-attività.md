@@ -4,5 +4,31 @@ Con questo nome, si intende definire l' insieme di **Istanze **che hanno per ogg
 
 ![](/assets/pct_mn_gest_attivita.jpg)
 
-La maschera che verrà acceduta, presenterà un aspetto già conosciuto, che ricorda la maschera della** Istanza**
+La maschera che verrà acceduta, presenterà un aspetto già conosciuto, che ricorda la maschera della** Istanza.**
+
+Analizziamo ciò che può particoleggiare l' area:
+
+![](/assets/sk_attivita_1.jpg)
+
+Qui, vengono visualizzati i dati caratterizzanti l' Attività, I titoli dei campi \(e quindi il loro contenuto\) sono abbstanza esplicativi.
+
+![](/assets/sk_attivita_2.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
