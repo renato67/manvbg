@@ -1,24 +1,6 @@
-# 
+Utilizzo dell’applicativo di Back Office
+
+descriviamo ora, alcune delle principali funzioni dell' applicativo
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#  **R.A.Ri. SUAP**
-
-** MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE**
 

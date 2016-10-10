@@ -1,8 +1,8 @@
 # Funzionalità di base
 
-L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale {{ book.prodotto }}.
+L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale.
 
-## Login 
+## Login
 
 ![](../assets/immagine42.png)Arrivati alla pagina di Login del portale, ci troveremo difronte ad una pagina come la seguente:l’ accesso è possibile sia tramite USERNAME e PASSWORD sia tramite CIE \/ CNS, dipende dalla configurazione richiesta.
 
@@ -64,13 +64,11 @@ All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/imm
 
 Per modificare un documento: Aprire sul icona dettaglio
 
-![](../assets/immagine14.png)![](../assets/immagine15.png): Attiva
-
-l’applicativo per effettuare la firma digitale.
+![](../assets/immagine14.png)![](../assets/immagine15.png): Attiva l’applicativo per effettuare la firma digitale.
 
 ![](../assets/immagine16.png): Visualizza il file caricato
 
-![](../assets/immagine17.png) : Modifica del file selezionato
+![](../assets/immagine17.png):Modifica del file selezionato
 
-![](../assets/immagine18.png) : Cancella il documento allegato
+![](../assets/immagine18.png):Cancella il documento allegato
 
