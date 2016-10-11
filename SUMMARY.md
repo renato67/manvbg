@@ -7,8 +7,14 @@
   * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
   * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
   * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestione_di_una_pratica.md)
-  * Gestione Attività
+  * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
+    * come creare una Atività
+    * agganciare pratiche ad attività
+    * creafre Attività da proc diverse da apertura
 
+
+
+---
 
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
   * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
