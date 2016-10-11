@@ -16,7 +16,5 @@ Qui, vengono visualizzati i dati caratterizzanti l' Attività, I titoli dei camp
 
 L' immagine seguente, particoleggia le Istanze che fanno parte dell' Attività.
 
-![](/assets/sk_attivita_2).jpg\)
-
 i nomi delle colonne sono conosciute, a parte le ultime 4 \(due delle quali contrasegnate dalle frecce rosse e blu\)![](/assets/sk_attivita_2.jpg)
 
