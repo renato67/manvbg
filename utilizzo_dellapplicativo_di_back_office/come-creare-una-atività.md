@@ -12,3 +12,5 @@ nel box \(freccia rossa sopra\), selezionare la voce \(Azione\) mostrata, così 
 
 ![](/assets/img_crea_attivita.jpg)
 
+rispondere positivamente al messaggio che avverte che si sta creando un' attività per l' Istanza. Da ora
+
