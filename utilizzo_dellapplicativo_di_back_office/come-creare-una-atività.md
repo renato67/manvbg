@@ -12,3 +12,5 @@ nel box indicato, selezionare la voce \(Azione\) mostrata, così da permettere a
 
 ![](/assets/img_crea_attivita.jpg)
 
+
+
