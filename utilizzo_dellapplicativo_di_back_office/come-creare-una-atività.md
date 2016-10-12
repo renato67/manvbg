@@ -12,5 +12,9 @@ nel box \(freccia rossa sopra\), selezionare la voce \(Azione\) mostrata, così 
 
 ![](/assets/img_crea_attivita.jpg)
 
-rispondere positivamente al messaggio che avverte che si sta creando un' attività per l' Istanza. Da ora
+rispondere positivamente al messaggio che avverte che si sta creando un' attività per l' Istanza. 
+
+Da ora, a fianco della Denominazione attività, comparirà il nome del RICHIEDENTE dell' Istanza.
+
+Facendo Click su tale nome, si aprirà la pagina di gestione della Attività, dalla quale è possibile compiere le azioni particolari di questa funzione
 
