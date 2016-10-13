@@ -2,7 +2,8 @@
 
 Il sistema{{ book.prodotto }}è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
 
-* **click, **pressione del tasto \(indicato\) tramite il mouse  
+* **click, **pressione del tasto \(indicato\) tramite il mouse
+* **TAB, **   linguetta superiore ad un insieme di schede, serve per selezionare la scheda desiderata
 
 * **Modulo di Front Office**, ovvero la sezione, pubblica su internet, rivolta ai cittadini e alle imprese.
 
