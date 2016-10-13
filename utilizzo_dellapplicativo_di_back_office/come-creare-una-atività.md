@@ -1,6 +1,6 @@
 ## Come creare un' Attività
 
-Come già detto nell' introduzione, un' attività può essere creata da una particolare Istanza. Ovvero l' Istanza di partenza deve essere configurata come Istanza che può creare un' attività: questo si ottiene selezionando sull' ultima scheda presente nella schermata   della presentazione Istanza, denominata ALTRE FUNZIONI. Alla pressione, comparirà l' immagine:
+Come già detto nell' introduzione, un' attività può essere creata da una particolare Istanza. Ovvero l' Istanza di partenza deve essere configurata come Istanza che può creare un' attività: questo si ottiene selezionando sull' ultima scheda presente nella schermata   della presentazione Istanza, denominata ALTRE FUNZIONI. Alla pressione, comparirà l' immagine:swfwe
 
 
 
