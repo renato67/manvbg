@@ -1,6 +1,6 @@
 ## Come creare un' Attività da qualsiasi procedura
 
-Come già detto nell' introduzione, un' attività può essere creata da una particolare Istanza. Ovvero l' Istanza di partenza deve essere configurata come Istanza che può creare un' attività: questo si ottiene selezionando sull' ultima scheda presente nella schermata   della presentazione Istanza, denominata ALTRE FUNZIONI. Alla pressione, comparirà l' immagine:swfwe
+Come già detto nell' introduzione, un' attività può essere creata da qualsiasi Procedura contenuta nell' Istanza (quindi non solo dalle procedure di Creazione Attività o affini). questo si ottiene selezionando sull' ultima scheda presente nella schermata   della presentazione Istanza, il **TAB** denominata ALTRE FUNZIONI. Alla pressione, comparirà l' immagine:swfwe
 
 
 
