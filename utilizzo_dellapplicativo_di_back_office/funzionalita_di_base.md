@@ -1,4 +1,4 @@
-# Funzionalità di base
+# Funzionalità di base 
 
 L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale.
 
@@ -40,7 +40,10 @@ I pulsanti presenti possono variare al variare della funzionalità, di seguito, 
 
 ![](../assets/immagine12.png):permette di eliminare un record
 
-## Tabelle
+
+# Tabelle
+
+
 
 Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di gestione delle istanze che verrà dettagliata separatamente\) viene mostrata una tabella con la visualizzazione dei record presenti. Per maggiore chiarezza concentriamo l’esempio su una funzionalità specifica \(lo stradario\) in modo da vedere le possibili operazioni effettuabili: quanto descritto può essere semplicemente esteso a qualunque altra funzionalità.
 
