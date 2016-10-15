@@ -20,7 +20,7 @@ Nella maschera dell **istanza**, sono presenti i dati che la identificano univoc
 
 Fra i primi e più importanti dati da immettere, vi è il RICHIEDENTE. Questo campo può essere popolato anche tramite la _ricerca referenziata._ Oppure, se l’ anagrafica non è già stata censita, è possibile inserirla tramite il tasto![](../assets/immagine51.jpg)verde. Alla pressione del tasto, si aprirà la scheda per l’ immissione della anagrafica \(vedi figura\)
 
-![](../assets/immagine52.jpg)la scheda permette l’ immissione di numerose informazioni inerenti il soggetto censito
+![](../assets/immagine52.jpg)la scheda permette l’ immissione di numerose informazioni inerenti il soggetto censito 
 
 A seguito della selezione \(o immissione\) della anagrafica, si può procedere alla compilazione degli altri campi.
 
