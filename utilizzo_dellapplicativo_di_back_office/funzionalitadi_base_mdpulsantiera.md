@@ -1,4 +1,0 @@
-# Pulsantierapulsantiera {#pulsantiera}
-
-dfvdf
-
