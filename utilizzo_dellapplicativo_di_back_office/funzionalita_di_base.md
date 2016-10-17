@@ -28,6 +28,7 @@ NB: per navigare attraverso le varie voci del menu è preferibile passarci sopra
 
 # pulsantiera {#pulsantiera}
 
+
 Quando dal menu viene attivata una funzionalità, nella parte bassa dello schermo sono sempre presenti una serie di pulsanti rossi, come mostrato in figura:
 
 I pulsanti presenti possono variare al variare della funzionalità, di seguito, verranno dettagliati quelli standard:![](../assets/immagine8.png):chiude la pagina e rimanda a quella precedentemente utilizzata
