@@ -26,7 +26,7 @@ Le voci di menu selezionabili per accedere ad una funzionalità dell’applicati
 
 NB: per navigare attraverso le varie voci del menu è preferibile passarci sopra con il cursore del mouse senza effettuare click. In alcuni browser la selezione tramite il pulsante sinistro del mouse può causare problemi nell’apertura della sezione: se ciò dovesse accadere è sufficiente effettuare una selezione differente e riprovare.
 
-## Pulsantiera {#pulsantiera}
+## Pulsantiera {##pulsantiera}
 
 
 
