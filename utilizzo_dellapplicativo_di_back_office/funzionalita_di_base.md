@@ -44,7 +44,7 @@ I pulsanti presenti possono variare al variare della funzionalità, di seguito, 
 ![](../assets/immagine12.png):permette di eliminare un record
 
 
-## Tabelle {##tabelle}
+## Tabelle {#tabelle}
 
 
 
