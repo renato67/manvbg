@@ -6,7 +6,7 @@ L’applicativo presenta alcune funzionalità standard, dettagliate in questo pa
 
 ![](../assets/immagine42.png)Arrivati alla pagina di Login del portale, ci troveremo difronte ad una pagina come la seguente:l’ accesso è possibile sia tramite USERNAME e PASSWORD sia tramite CIE \/ CNS, dipende dalla configurazione richiesta.
 
-## Menu e toolbar
+## Menu e toolbar {Menu e toolbar}
 
 Nella parte alta dello schermo sono sempre presenti:
 
@@ -26,7 +26,9 @@ Le voci di menu selezionabili per accedere ad una funzionalità dell’applicati
 
 NB: per navigare attraverso le varie voci del menu è preferibile passarci sopra con il cursore del mouse senza effettuare click. In alcuni browser la selezione tramite il pulsante sinistro del mouse può causare problemi nell’apertura della sezione: se ciò dovesse accadere è sufficiente effettuare una selezione differente e riprovare.
 
-# pulsantiera {#pulsantiera}
+## Pulsantiera {#pulsantiera}
+
+
 
 
 Quando dal menu viene attivata una funzionalità, nella parte bassa dello schermo sono sempre presenti una serie di pulsanti rossi, come mostrato in figura:
@@ -41,7 +43,10 @@ I pulsanti presenti possono variare al variare della funzionalità, di seguito, 
 
 ![](../assets/immagine12.png):permette di eliminare un record
 
-# Tabelle
+
+## Tabelle {##tabelle}
+
+
 
 Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di gestione delle istanze che verrà dettagliata separatamente\) viene mostrata una tabella con la visualizzazione dei record presenti. Per maggiore chiarezza concentriamo l’esempio su una funzionalità specifica \(lo stradario\) in modo da vedere le possibili operazioni effettuabili: quanto descritto può essere semplicemente esteso a qualunque altra funzionalità.
 
@@ -49,15 +54,15 @@ Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di g
 
 ![](../assets/immagine7.png)
 
-## Campi di input referenziati
+## Campi di input referenziati {##campi di input referenziati}
 
 ![](../assets/immagine43.jpg)Si tratta di un tipo dato che ha, come caratteristica quella di proporre i record del DB che contengono la sequenza dati digitata
 
-## Campi di input di tipo data
+## Campi di input di tipo data {##campi di input di tipo data}
 
 ![](../assets/immagine44.jpg)Dove compare l’ icona calendario \(come evidenziato dalla freccia nell’ immagine sottostante\)tramite il click sopra di esso, sarà possibile visualizzare un calendario che propone di default il giorno corrente, ma è modificabile a piacimento per poter selezionare la data voluta.
 
-## Upload di un file
+## Upload di un file {## upload di un file}
 
 All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/immagine45.jpg) verrà visualizzata la seguente pagi![](../assets/immagine46.jpg)nain questa tabella, sono visibile tutti i documenti presenti la loro posizione all’ interno all’ interno della Istanza \(endoprocedimenti, movimenti\)Cliccando il pulsante “Nuovo” è possibile inserire un nuovo file. Nella descrizione è possibile inserire il nome del documentoSu documento da allegare “Allega un file”, selezionando **scegli file** è possibile determinare il documento desiderato. Cliccando su “inserisci” viene caricato il documento.
 
