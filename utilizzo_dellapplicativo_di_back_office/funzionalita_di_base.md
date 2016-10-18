@@ -2,7 +2,7 @@
 
 L’applicativo presenta alcune funzionalità standard, dettagliate in questo paragrafo, che verranno date per scontate nel proseguo del manuale.
 
-## Login
+## Login {##login}
 
 ![](../assets/immagine42.png)Arrivati alla pagina di Login del portale, ci troveremo difronte ad una pagina come la seguente:l’ accesso è possibile sia tramite USERNAME e PASSWORD sia tramite CIE \/ CNS, dipende dalla configurazione richiesta.
 
