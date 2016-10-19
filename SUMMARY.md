@@ -8,7 +8,7 @@
    * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#Menu_e_toolbar)
    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
    * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle)
-   * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input referenziati)
+   * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_referenziati)
    * [Campi di input di tipo_Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_di_tipo_data)
    * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#upload_di_un_file)
 * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
