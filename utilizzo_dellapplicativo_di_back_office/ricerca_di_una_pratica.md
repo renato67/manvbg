@@ -10,7 +10,7 @@ Da questa pagina, è possibile fare la ricerca di tutti i dati memorizzati nelle
 
 sono Campi di input referenziati.
 
-La ricerca, di una pratica può essere fatta introducento il valore in uno qualsiasi dei campi mostrati (filtro) o anche il valore di più campi (filtri). In questo caso, la pratica trovata (o le pratiche), sarà/saranno quella che contiene/contengono entrambi i valori cercati.
+La ricerca, di una pratica può essere fatta introducendo il valore in uno qualsiasi dei campi mostrati (filtro) o anche il valore di più campi (filtri). In questo caso, la pratica trovata (o le pratiche), sarà/saranno quella che contiene/contengono entrambi i valori cercati.
 
 nella videata sottostante, sono stati valorizzati i campi (contrassegnati dalle frecce 1 e 2)
 
