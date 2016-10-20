@@ -6,6 +6,6 @@
 
 sono _Campi di input referenziati.
 
-La ricerca, di una qualsiasi pratica può essere fatta introducento il valore di uno qualsiasi dei campi mostrati o anche introducendo il valore di più campi. In questo caso, la pratica trovata (o le pratiche), sarà quella che contiene entrambi i valori cercati.
+La ricerca, di una qualsiasi pratica può essere fatta introducento il valore di uno qualsiasi dei campi mostrati o anche il valore di più campi. In questo caso, la pratica trovata (o le pratiche), sarà quella che contiene entrambi i valori cercati.
 
 
