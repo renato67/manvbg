@@ -5,5 +5,6 @@
 ![](../assets/immagine47.jpg)
 
 sono _Campi di input referenziati.
+La ricerca, di una qualsiasi pratica può essere fatta
 
 
