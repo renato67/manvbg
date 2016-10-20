@@ -1,4 +1,4 @@
-# Ricerca di una pratica
+![](/assets/sk_ricerca.jpg)# Ricerca di una pratica
 
 Tramite la voce di menu Istanze — modulo – Archivio istanze, è possibile accedere la pagina di ricerca delle pratiche (Istanze).
 
@@ -12,9 +12,8 @@ sono Campi di input referenziati.
 
 La ricerca, di una pratica può essere fatta introducento il valore in uno qualsiasi dei campi mostrati (filtro) o anche il valore di più campi (filtri). In questo caso, la pratica trovata (o le pratiche), sarà quella che contiene entrambi i valori cercati.
 
-![](../assets/immagine41.jpg)
-
 nella videata sottostante, sono stati valorizzati i campi (contrassegnati dalle frecce 1 e 2)
 
+![](../assets/immagine41.jpg)
 
 
