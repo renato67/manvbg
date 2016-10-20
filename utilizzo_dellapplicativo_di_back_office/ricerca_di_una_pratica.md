@@ -14,3 +14,7 @@ La ricerca, di una pratica può essere fatta introducento il valore in uno quals
 
 ![](../assets/immagine41.jpg)
 
+nella videata sottostante, sono stati valorizzati i campi (contrassegnati dalle frecce 1 e 2)
+
+
+
