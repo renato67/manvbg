@@ -1,16 +1,21 @@
 # Premesse e definizioni {#premesse-e-definizioni}
 
-Il sistema R.A.Ri. SUAP è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:
+Il sistema{{ book.prodotto }}è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
 
-*   **Modulo di Front Office**, ovvero la sezione, pubblica su internet, rivolta ai cittadini e alle imprese.
+* **click, **pressione del tasto \(indicato\) tramite il mouse
+* **TAB, **   linguetta superiore ad un insieme di schede, serve per selezionare la scheda desiderata
 
-*   **Modulo di Back Office**, ovvero il modulo rivolto agli operatori di back office per la gestione completa delle pratiche di competenza.
+* **Modulo di Front Office**, ovvero la sezione, pubblica su internet, rivolta ai cittadini e alle imprese.
+
+* **Modulo di Back Office**, ovvero il modulo rivolto agli operatori di back office per la gestione completa delle pratiche di competenza.
+
 
 Oggetto del presente manuale è il modulo di Front Office a sua volta diviso in due macro aree:
 
-*   **Area Riservata**, ovvero la sezione, protetta da sistema di autenticazione, che mette a disposizione alcuni servizi avanzati per l’utente autenticato.
+* **Area Riservata**, ovvero la sezione, protetta da sistema di autenticazione, che mette a disposizione alcuni servizi avanzati per l’utente autenticato.
 
-*   **Front Office Informativo**, ovvero la sezione ad accesso libero che fornisce informazioni inerenti i procedimenti amministrativi gestiti dall’ente di riferimento.
+* **Front Office Informativo**, ovvero la sezione ad accesso libero che fornisce informazioni inerenti i procedimenti amministrativi gestiti dall’ente di riferimento.
+
 
 L’applicativo R.A.Ri. SUAP è stato strutturato in modo da dare completo controllo agli operatori di back office abilitati di tutte le funzionalità per la pubblicazione, modifica ed eliminazione dei contenuti di Front Office. Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 
@@ -32,9 +37,9 @@ Record: qualunque dato presente nell’applicativo, come ad esempio un’anagraf
 
 **Front Office Informativo:** sezione del Front Office di R.A.Ri. SUAPad accesso libero che fornisce informazioni inerenti i procedimenti amministrativi gestiti dall’Ente di Riferimento.
 
-**Configurazioni**: è l’insieme delle attività, destinate ad operatori esperti ed abilitati, che permettono di modificare i contenuti resi disponibili ai cittadini/imprese che utilizzano il sistema di Front Office.
+**Configurazioni**: è l’insieme delle attività, destinate ad operatori esperti ed abilitati, che permettono di modificare i contenuti resi disponibili ai cittadini\/imprese che utilizzano il sistema di Front Office.
 
-**Albero dei procedimenti**: è la catalogazione gerarchica (“ad albero”) delle tipologie di pratiche gestite dall’ente di riferimento
+**Albero dei procedimenti**: è la catalogazione gerarchica \(“ad albero”\) delle tipologie di pratiche gestite dall’ente di riferimento
 
 **Endoprocedimento**: sub procedimento collegato ad un intervento che chiama in causa amministrazioni esterne all’Ente di Riferimento**Schede dinamiche**: schede aggiuntive per l’imputazioni di dati relativi a Interventi o Endoprocedimenti
 
@@ -47,3 +52,4 @@ Record: qualunque dato presente nell’applicativo, come ad esempio un’anagraf
 ![](assets/immagine1.png): obbligatorio. Indica che è necessario allegare un file
 
 ![](assets/immagine2.png): da firmare digitalmente. Indica che è necessario allegare un file firmato digitalmente
+

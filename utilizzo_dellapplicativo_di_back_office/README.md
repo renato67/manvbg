@@ -1,1 +1,9 @@
-# Utilizzo dell’applicativo di Back Office {#utilizzo-dell-applicativo-di-back-office}
+
+# Utilizzo dell’ applicativo di Back Office
+
+
+
+descriviamo ora, alcune delle principali funzioni dell' applicativo
+
+
+
