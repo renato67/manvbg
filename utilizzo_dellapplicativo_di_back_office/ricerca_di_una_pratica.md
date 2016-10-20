@@ -16,5 +16,5 @@ nella videata sottostante, sono stati valorizzati i campi (contrassegnati dalle 
 
 ![](/assets/sk_ricerca.jpg)
 
-alla pressione del tasto 3 **CERCA** verranno visualizzate i link (e le informazioni sommarie) delle pratiche che contengono i valori cercati.
+alla pressione del tasto 3 **CERCA** verranno visualizzati i link (e le informazioni sommarie) delle pratiche che contengono i valori cercati.
 
