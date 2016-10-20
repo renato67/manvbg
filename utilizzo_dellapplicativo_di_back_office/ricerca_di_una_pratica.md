@@ -1,4 +1,4 @@
-![](/assets/sk_ricerca.jpg)# Ricerca di una pratica
+# Ricerca di una pratica
 
 Tramite la voce di menu Istanze — modulo – Archivio istanze, è possibile accedere la pagina di ricerca delle pratiche (Istanze).
 
@@ -14,6 +14,5 @@ La ricerca, di una pratica può essere fatta introducento il valore in uno quals
 
 nella videata sottostante, sono stati valorizzati i campi (contrassegnati dalle frecce 1 e 2)
 
-![](../assets/immagine41.jpg)
-
+![](/assets/sk_ricerca.jpg)
 
