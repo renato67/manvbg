@@ -24,9 +24,9 @@ i nomi delle colonne sono conosciuti, a parte le ultime 4 \(tre delle quali cerc
 
 che indicano:
 
-STATO: indica se l' Istanza \(il cui numero è riportato nella prima colonna\) é tuttora in corso o é cessata.
+**STATO**: indica se l' Istanza \(il cui numero è riportato nella prima colonna\) é tuttora in corso o é cessata.
 
-AZIONE: sta ad indicare, a seconda del simbolo , \(+ - =\) se l' Istanza a cui ci si riferisce, crea una attività \(+\), la elimina \(-\) o mantiene inalterata la quantità \(=\) all' interno dell' ente che gestisce il programma.
+**AZIONE**: sta ad indicare, a seconda del simbolo , \(+ - =\) se l' Istanza a cui ci si riferisce, crea una attività \(+\), la elimina \(-\) o mantiene inalterata la quantità \(=\) all' interno dell' ente che gestisce il programma.
 
-COPIA: le lettere indicano un insieme di dati \(T S M D O L S la tipologia del dato é visualizzabile, portando il mouse sopra la     lettera\) che vengono copiate dall' Istanza immediatamente precedente..
+**COPIA**: le lettere indicano un insieme di dati \(T S M D O L S la tipologia del dato é visualizzabile, portando il mouse sopra la     lettera\) che vengono copiate dall' Istanza immediatamente precedente..
 
