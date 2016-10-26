@@ -7,8 +7,9 @@ Come si può vedere:
 * dal confronto fra una nostra persona ed un impiegato Comunale, vengono raccolte informazioni
 * 
 Queste informazioni vengono tradotte in diagramma di flusso
-
 * Il diagramma in codice (parte del programma)
+
+
 
 
 
