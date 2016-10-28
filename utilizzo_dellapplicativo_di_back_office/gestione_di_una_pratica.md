@@ -1,4 +1,4 @@
-# Gestione di una pratica {#Gestione di una pratica}
+# Gestione di una pratica {#Gestione_di_una_pratica}
 
 Il flusso di informazioni e passi procedurali atti alla gestione di una pratica \(Istanza\), viene stabilito nel momento in cui un Comune decide di adottare questo sistema per la gestione delle proprie pratiche.In tale momento, vengono decisi gli attori \(ovvero gli uffici che gestiranno le informazioni\) le procedure e i tempi con cui queste ultime potranno essere gestite.
 
