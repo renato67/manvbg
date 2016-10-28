@@ -14,6 +14,9 @@ Elenchiamo di seguito, come questi passi vengono tradotti:
 
 Come si evince dal diagramma di flusso (il primo blocco rappresenta la presentazione di una domanda, questa fase può essere compiuta sia da un operatore del comune che dall' utente finale utilizzando lo sportello di front Office).
 
+Analiziamo il il primo caso:
+
+
 
 
 
