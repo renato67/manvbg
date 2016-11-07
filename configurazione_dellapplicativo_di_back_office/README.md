@@ -17,7 +17,7 @@ Come si evince dal diagramma di flusso (il primo blocco rappresenta la presentaz
 Analiziamo il il primo caso:
 
 
-
+![](/assets/ Back Office    Archivio Istanze.png)
 
 
 
