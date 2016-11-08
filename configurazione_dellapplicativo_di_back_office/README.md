@@ -24,6 +24,3 @@ La videata, consente l' inserimento di una pratica (Istanza) contenente i dati n
 
 
 
-
-
-
