@@ -20,7 +20,7 @@ Analiziamo il il primo caso:
 
 tramite la voce di menù idicato, sarà possibile accedere la parte del programma di BO che consente l' inserimento di una Istanza.
 ![](/assets/ sk_ins_Istanze.jpg)
-
+La schermataq, consente l' inserimento di una pratica (Istanza) contenente i dati necessari (contrassegnati dall' asterisco - cerchiati in rosso nell' immagine -) e altri dati che possono arricchire l' individuazione del soggetto trattato. 
 
 
 
