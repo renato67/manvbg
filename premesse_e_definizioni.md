@@ -2,6 +2,8 @@
 
 Il sistema{{ book.prodotto }}è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
 
+* **BO,** Back Office. Ovvero la parte del programma acceduta esclusivamente da personale incaricato presso il Comune
+* **FO,** Front Office. La parte del programma che popola il DB, acceduto dall' utente tramite la connessione Internet 
 * **click, **pressione del tasto \(indicato\) tramite il mouse
 * **TAB, **   linguetta superiore ad un insieme di schede, serve per selezionare la scheda desiderata
 

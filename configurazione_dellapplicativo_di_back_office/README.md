@@ -10,16 +10,15 @@ Queste informazioni vengono tradotte in diagramma di flusso
 * Il diagramma in codice (parte del programma)
 
 Nei vari passaggi, ogni attore traduce nel proprio linguaggio le informazioni ricevute. Infine cio che si ottiene é che l' operazione usualmente svolta mnemonicamente da una persona, potrà essere riprodotta dall' interazione fra il programma e qualsiasi persona che potrà fornire semplici informazioni.
-Elenchiamo di seguito, come questi passi vengono tradotti:
+Elenchiamo di seguito, come passi vengono tradotti:
 
 Come si evince dal diagramma di flusso (il primo blocco rappresenta la presentazione di una domanda, questa fase può essere compiuta sia da un operatore del comune che dall' utente finale utilizzando lo sportello di front Office).
 
 Analiziamo il il primo caso:
 
+![](/assets/mn_ins_istanza.jpg)
 
-![](/assets/ Back Office    Archivio Istanze.png)
-
-
+tramite la voce di menù idicato, sarà possibile accedere la parte del programma di BO
 
 
 
