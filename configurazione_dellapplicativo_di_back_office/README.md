@@ -18,7 +18,8 @@ Analiziamo il il primo caso:
 
 ![](/assets/mn_ins_istanza.jpg)
 
-tramite la voce di menù idicato, sarà possibile accedere la parte del programma di BO
+tramite la voce di menù idicato, sarà possibile accedere la parte del programma di BO che consente l' inserimento di una Istanza.
+![](/assets/ sk_ins_Istanze.jpg)
 
 
 
