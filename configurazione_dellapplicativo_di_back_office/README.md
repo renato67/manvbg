@@ -31,6 +31,7 @@ I menu attinenti questa operazione, sono accessbili - ognuno nella propria area 
 ![](/assets/mn_sk_dinameiche.jpg)
 
 come si evince dall' immagine, in questo campo è possibile accedere:
+
 modelli
 campi
 regole
