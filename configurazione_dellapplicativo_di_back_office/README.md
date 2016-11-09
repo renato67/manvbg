@@ -27,6 +27,7 @@ Gli stessi dati possono essere inseriti analogamente - tramite Front Office - da
 
 Queste, sono costituite da un insieme di dati, codice e aspetto di presentazione: alcuni dati, sono valorizzati dal contenuto di un campo che risiede nel DB. 
 I menu attinenti questa operazione, sono accessbili - ognuno nella propria area - tramite il seguente menu:
+
 ![](/assets/mn_sk_dinameiche.jpg)
 
 
