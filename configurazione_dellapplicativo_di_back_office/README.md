@@ -23,3 +23,6 @@ tramite la voce di menù idicato, sarà possibile accedere la parte del programm
 La videata, consente l' inserimento di una pratica (Istanza) contenente i dati necessari (contrassegnati dall' asterisco - cerchiati in rosso nell' immagine -) e altri dati che possono arricchire l' individuazione del soggetto trattato.
 Gli stessi dati possono essere inseriti analogamente - tramite Front Office - dall' utente.
 
+# Schede Dinamiche
+
+Queste, sono costituite da un insieme di dati e codice: ovvero l' aspetto è quello tipico di una lettera, ma alcuni dati, sono valorizzati dal contenuto di un campo che risiede nel DB. Nella scheda, viene inserito il codice atto a selezionare lo specifico codice.
