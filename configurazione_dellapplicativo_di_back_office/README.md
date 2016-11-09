@@ -32,9 +32,9 @@ I menu attinenti questa operazione, sono accessbili - ognuno nella propria area 
 
 come si evince dall' immagine, in questo campo è possibile accedere:
 
-modelli
-campi
-regole
+* modelli
+* campi
+* regole
 
 
 
