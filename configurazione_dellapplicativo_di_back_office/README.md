@@ -1,4 +1,4 @@
-#{#configurazione-dell-applicativo-di-back-office}
+# Configurazione dell' applicativo di Back Office{#configurazione-dell-applicativo-di-back-office}
 
 questa parte (il B.O) è altamente configurabile. può essere plasmato sui bisogni dell' utente. Vediamo le principali configurazioni.
 
