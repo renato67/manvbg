@@ -30,13 +30,16 @@ I menu attinenti questa operazione, sono accessbili - ognuno nella propria area 
 
 ![](/assets/mn_sk_dinameiche.jpg)
 
-come si evince dall' immagine, in questo campo è possibile accedere:
+come si evince dall' immagine, in questo menù è possibile accedere:
 
 * modelli
 * campi
 * regole
 
-
+### modelli
+questa sezione permette a seguito della ricerca, l' individuazione delle schede già presenti, 
+![](/assets/sk_ricerca_sk_dinamiche.jpg)
+o la possibilità di crearne di nuove (anche come copia dalle esistenti).
 
 
 
