@@ -48,4 +48,4 @@ più o meno con il solito schema, é possibile fare la ricerca o creare nuovi ca
 
 ### regole
 ![](/assets/sk_regole.jpg)
-la scheda serve a definire le regole che relazionano i campi. Come si può vedere, sono numerosi 
+la scheda serve a definire le regole che relazionano i campi. Come si può vedere, sono numerose le opzioni per relazionare tale campi.
