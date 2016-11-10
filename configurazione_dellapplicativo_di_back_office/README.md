@@ -46,3 +46,6 @@ o la possibilità di crearne di nuove (anche come copia dalle esistenti).
 ![](/assets/sk_campi.jpg)
 più o meno con il solito schema, é possibile fare la ricerca o creare nuovi campi (da utilizzare nelle schede)
 
+### regole
+![](/assets/sk_regole.jpg)
+la scheda serve a definire le regole che relazionano i campi. Come si può vedere, sono numerosi 
