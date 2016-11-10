@@ -17,4 +17,6 @@
 * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
+*[Schede Dinamiche](Schede Dinamiche)
+
 
