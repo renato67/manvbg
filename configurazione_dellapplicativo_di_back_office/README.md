@@ -41,6 +41,8 @@ questa sezione permette a seguito della ricerca, l' individuazione delle schede 
 ![](/assets/sk_ricerca_sk_dinamiche.jpg)
 o la possibilità di crearne di nuove (anche come copia dalle esistenti).
 
+### campi
 
-
+![](/assets/sk_campi.jpg)
+più o meno con il solito schema, é possibile fare la ricerca o creare nuovi campi (da utilizzare nelle schede)
 
