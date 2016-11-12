@@ -5,7 +5,7 @@
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#funzbase.md)
    * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
-   * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base.md#menu_e_toolbar.md)
+   * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar.md)
    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
    * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle)
    * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_referenziati)
