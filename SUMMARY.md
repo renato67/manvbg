@@ -1,11 +1,11 @@
 # Summary
 
-* [Manuale](README.md)
+* [Manuale](README.md) 
 * [Premesse e definizioni](premesse_e_definizioni.md)
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base_mdfunzbasemd.md)
    * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
-   * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar.md)
+   * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)
    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
    * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle)
    * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_referenziati)
