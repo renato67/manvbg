@@ -3,7 +3,7 @@
 * [Manuale](README.md)
 * [Premesse e definizioni](premesse_e_definizioni.md)
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
-* [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base.md#funzbase.md)
+* [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#funzbase.md)
    * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
    * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base.md#menu_e_toolbar.md)
    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
@@ -17,6 +17,6 @@
 * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
 * [Configurazione dell’ applicativo di Back Office](configurazione_dellapplicativo_di_back_office/readmemdmd.md)
-   * [Configurazione di un flusso](configurazione_dellapplicativo_di_back_office#configurazione_di_un_flusso)
+   * [Configurazione di un flusso](configurazionedellapplicativo_di_back_office_confi.md)
    * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
 
