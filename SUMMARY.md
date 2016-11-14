@@ -15,7 +15,7 @@
 * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
 * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestione_di_una_pratica.md)
 * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
-* [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
+[Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
 [Configurazione dell’ applicativo di Back Office](configurazione_dellapplicativo_di_back_office/readmemdmd.md)
   * [Configurazione di un flusso](configurazionedellapplicativo_di_back_office_confi.md)
    * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
