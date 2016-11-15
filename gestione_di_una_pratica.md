@@ -1,2 +1,0 @@
-# Gestionwe di una pratica
-
