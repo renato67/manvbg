@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base_mdfunzbasemd.md)
+* [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base/funzbasemd.md)
    [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
    * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)
    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
