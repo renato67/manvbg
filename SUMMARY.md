@@ -13,5 +13,5 @@
 * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
 * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestione_di_una_pratica.md)
    * [Configurazione di un flusso](configurazionedellapplicativo_di_back_office_confi.md)
-   * Schede dinamiche
+   * [Schede dinamiche](utilizzo_dellapplicativo_di_back_office/schede_dinamiche.md)
 
