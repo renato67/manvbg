@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Premesse e definizioni](premesse_e_definizioni/premesse_e_definizioni2.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalitadi_base_mdfunzbase.md)
    * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
    * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
@@ -11,5 +12,4 @@
 * [Configurazione dell’ applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
    * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
    * [conf di un flusso](configurazione_dellapplicativo_di_back_office/conf-di-un-articolo.md)
-* [Premesse e definizioni](premesse_e_definizioni/premesse_e_definizioni2.md)
 
