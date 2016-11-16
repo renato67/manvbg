@@ -1,2 +1,0 @@
-# Funzionalità di base
-
