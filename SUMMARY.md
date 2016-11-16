@@ -11,5 +11,5 @@
 * [Configurazione dell’ applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
    * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
    * [conf di un flusso](configurazione_dellapplicativo_di_back_office/conf-di-un-articolo.md)
-* Premesse e definizioni
+* [Premesse e definizioni](premesse_e_definizioni/premesse_e_definizioni2.md)
 
