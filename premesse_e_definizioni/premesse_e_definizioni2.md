@@ -1,2 +1,0 @@
-# Premesse e definizioni
-
