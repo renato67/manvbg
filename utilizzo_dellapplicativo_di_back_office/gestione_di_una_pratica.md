@@ -4,7 +4,7 @@ Il flusso di informazioni e passi procedurali atti alla gestione di una pratica 
 
 vediamo un esempio del funzionamento di un processo. A seguito dell’ incontro fra le figure citate, verrà stilato un diagramma di flusso, che, nel caso descritto è il seguente:
 
-![](../assets/immagine57.jpg)
+``````![](../assets/immagine57.jpg)
 
 i passi, verranno codificati e all’ interno del programma, avranno questo aspetto:
 

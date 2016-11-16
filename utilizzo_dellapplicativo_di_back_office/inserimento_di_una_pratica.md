@@ -30,7 +30,8 @@ I campi rappresentati in figura, sono a loro volta obbligatori ma seguono un ite
 
 Gli ultimi campi obbligatori \(riportati in figura\) hanno a loro volta una particolarità: il campo INTERVENTO può essere selezionato da un albero \(che è stato opportunamente configurato in sede di configurazione\). Tale albero è visualizzabile premendo la lente \(blu\) indicata dalla freccia verde. Le cartelle contenute possono essere aperte cliccando il tasto +. le voci contenute nella cartella rappresentano gli interventi utilizzabili preconfigurati.Ogni INTERVENTO \(procedimento\) dispone di diverse procedure, elencate se all’ interno del medesimo campo \(PROCEDURE\) viene digitato il carattere %.
 
-### I rimanenti campi particolareggiano l’ intervento, ma non sono obbligatori.Il nome del campo fornisce intuitivamente il tipo di informazione necessaria {#irimanenti-campi-particolareggiano-l-intervento-ma-non-sono-obbligatori-il-nome-del-campo-fornisce-intuitivamente-il-tipo-di-informazione-necessaria}
+### I rimanenti campi
+particolareggiano l’ intervento, ma non sono obbligatori.Il nome del campo fornisce intuitivamente il tipo di informazione necessaria {#irimanenti-campi-particolareggiano-l-intervento-ma-non-sono-obbligatori-il-nome-del-campo-fornisce-intuitivamente-il-tipo-di-informazione-necessaria}
 
 ![](../assets/immagine56.jpg)
 

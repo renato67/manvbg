@@ -6,7 +6,7 @@ INDICE
 
 > 
 
-. Premesse e definizioni3
+. Premesse e definizioni
 
 . Utilizzo dell’applicativo di Back Office4
 
