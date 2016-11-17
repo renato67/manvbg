@@ -1,6 +1,6 @@
 # Premesse e definizioniff {#premesse-e-definizioni}
 
-Il sistema{{ book.prodotto }}è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
+Il sistema {{ book.prodotto }} è un applicativo web, utilizzabile con tutti i più comuni browser in commercio, composto da due moduli strettamente connessi fra loro:  
 
 * **BO,** Back Office. Ovvero la parte del programma acceduta esclusivamente da personale incaricato presso il Comune
 * **FO,** Front Office. La parte del programma che popola il DB, acceduto dall' utente tramite la connessione Internet 
