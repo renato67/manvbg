@@ -2,7 +2,7 @@
 
 ![](../assets/immagine42.png)Arrivati alla pagina di Login del portale, ci troveremo difronte ad una pagina come la seguente:l’ accesso è possibile sia tramite USERNAME e PASSWORD sia tramite CIE \/ CNS, dipende dalla configurazione richiesta.
 
-## Menu e toolbar {# menu_e_toolbar}
+## Menu e toolbar {#menu_e_toolbar}
 
 Nella parte alta dello schermo sono sempre presenti:
 
