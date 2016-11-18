@@ -17,7 +17,7 @@
 * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office/README.md)
-  * [Configurazione di un flusso](configurazione_dellapplicativo_di_back_office#)
+  * [Configurazione di un flusso](configurazione_dellapplicativo_di_back_office)
   * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
 
 
