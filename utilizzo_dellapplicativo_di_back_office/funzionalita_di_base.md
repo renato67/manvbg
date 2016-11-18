@@ -1,4 +1,4 @@
-## Login {#login}
+## Login {#login} 
 
 ![](../assets/immagine42.png)Arrivati alla pagina di Login del portale, ci troveremo difronte ad una pagina come la seguente:l’ accesso è possibile sia tramite USERNAME e PASSWORD sia tramite CIE \/ CNS, dipende dalla configurazione richiesta.
 
@@ -22,7 +22,7 @@ Le voci di menu selezionabili per accedere ad una funzionalità dell’applicati
 
 NB: per navigare attraverso le varie voci del menu è preferibile passarci sopra con il cursore del mouse senza effettuare click. In alcuni browser la selezione tramite il pulsante sinistro del mouse può causare problemi nell’apertura della sezione: se ciò dovesse accadere è sufficiente effettuare una selezione differente e riprovare.
 
-## pulsantiera {#pulsantiera}
+## Pulsantiera {#pulsantiera}
 
 
 
