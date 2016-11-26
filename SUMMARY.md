@@ -1,14 +1,14 @@
-# Summary
+#Summary
 
 * [Manuale](README.md)
 * [Premesse e definizioni](premesse_e_definizioni.md)
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md)
-    * [Login]  (utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#login.md)
-    * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#menu_e_toolbar.md)
-    * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#pulsantiera.md)
-    * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#tabelle.md)
-    * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#campi_di_input_referenziati.md)
+* [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#login.md)
+* [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#menu_e_toolbar.md)
+* [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#pulsantiera.md)
+* [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#tabelle.md)
+* [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#campi_di_input_referenziati.md)
     * [Campi di input di tipo Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#campi_di_input_di_tipo_data.md)
     * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#upload_di_un_file.md)
 * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
