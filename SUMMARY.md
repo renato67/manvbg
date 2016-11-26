@@ -4,8 +4,7 @@
 * [Premesse e definizioni](premesse_e_definizioni.md)
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md)
-
-  * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.html#login.md)
+  * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#login.md)
   * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#menu_e_toolbar.md) 
   * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#pulsantiera.md)
   * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#tabelle.md)
