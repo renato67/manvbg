@@ -10,7 +10,7 @@
   * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#tabelle.md)
   * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#campi_di_input_referenziati.md)
   * [Campi di input di tipo Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#campi_di_input_di_tipo_data.md)
-   * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#upload_di_un_file.md)
+  * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base#upload_di_un_file.md)
 * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
 * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica)
 * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestione_di_una_pratica)
