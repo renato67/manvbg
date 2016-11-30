@@ -1,2 +1,1 @@
-# Configurazione di un flusso
-
+# Nuova pratica da back office
