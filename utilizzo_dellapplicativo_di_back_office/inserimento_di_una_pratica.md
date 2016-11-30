@@ -10,9 +10,9 @@ L’ operazione, consente di creare quella che poi verrà chiamata **istanza.** 
 
 ![](../assets/immagine48.jpg)Analiziamo una delle possibili vie per l’ inserimento di una **istanza**.
 
-![](../assets/immagine49.jpg)Come mostrato in figura, la voce per l’ inserimento, segue il seguente iter:istanze — modulo — Inserimento Rapido Istanzacon modulo si intende l’ area a cui l’ intervento è attinente. \(nell’ esempio:”commercio”.
+![](../assets/immagine49.jpg)Come mostrato in figura, la voce per l’ inserimento, segue il seguente iter:istanze — modulo — Inserimento Rapido Istanza con modulo si intende l’ area a cui l’ intervento è attinente. \(nell’ esempio:”commercio”).
 
-Nella maschera dell **istanza**, sono presenti i dati che la identificano univocamente e quindi sono obbligatori. Il nome dei campi obbligatori, è caratterizzato dalla presenza di un asterisco \* accanto al nome \(come mostrato in figura\). Altri dato \(nella figura i campi DATA PRESENTAZIONE NUMERO DI PROTOCOLLO e relative data e ora\) possono risultare obbligatori se definiti tali in sede di configurazione. Per tale motivo, vengono bordati di rosso \(ma non hanno il simbolo dell’ asterisco\).
+Nella maschera dell **istanza**, sono presenti i dati che la identificano univocamente e quindi sono obbligatori. Il nome dei campi obbligatori, è caratterizzato dalla presenza di un asterisco \* accanto al nome \(come mostrato in figura\). Altri dati \(nella figura i campi DATA PRESENTAZIONE NUMERO DI PROTOCOLLO e relative data e ora\) possono risultare obbligatori se definiti tali in sede di configurazione. Per tale motivo, vengono bordati di rosso \(ma non hanno il simbolo dell’ asterisco\).
 
 ![](../assets/immagine50.jpg)Nel caso in cui tali dati venissero omessi, il programma visualizzerà un errore e i campi obbligatori omessi verranno evidenziati con un contorno rosso.
 
@@ -30,8 +30,7 @@ I campi rappresentati in figura, sono a loro volta obbligatori ma seguono un ite
 
 Gli ultimi campi obbligatori \(riportati in figura\) hanno a loro volta una particolarità: il campo INTERVENTO può essere selezionato da un albero \(che è stato opportunamente configurato in sede di configurazione\). Tale albero è visualizzabile premendo la lente \(blu\) indicata dalla freccia verde. Le cartelle contenute possono essere aperte cliccando il tasto +. le voci contenute nella cartella rappresentano gli interventi utilizzabili preconfigurati.Ogni INTERVENTO \(procedimento\) dispone di diverse procedure, elencate se all’ interno del medesimo campo \(PROCEDURE\) viene digitato il carattere %.
 
-### I rimanenti campi
-particolareggiano l’ intervento, ma non sono obbligatori.Il nome del campo fornisce intuitivamente il tipo di informazione necessaria {#irimanenti-campi-particolareggiano-l-intervento-ma-non-sono-obbligatori-il-nome-del-campo-fornisce-intuitivamente-il-tipo-di-informazione-necessaria}
+I campi rimanenti particolareggiano l’ intervento, ma non sono obbligatori.Il nome del campo fornisce intuitivamente il tipo di informazione necessaria. 
 
 ![](../assets/immagine56.jpg)
 
