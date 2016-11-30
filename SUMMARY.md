@@ -19,3 +19,4 @@
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
     * [nuova pratica da BO](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
+
