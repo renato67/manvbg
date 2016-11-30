@@ -3,6 +3,7 @@
 * [Manuale](README.md)
 * [Premesse e definizioni](premesse_e_definizioni.md)
 * [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
+    * [nuova pratica da BO](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md)
     * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
     * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)
@@ -17,6 +18,6 @@
 * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
-    * [nuova pratica da BO](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
+
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
 
