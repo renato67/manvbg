@@ -21,8 +21,10 @@ Altrimenti, tramite il tasto **_nuovo_** è possibile creare una nuova scheda. L
 ![](/assets/sk_nuovs_sheda.jpg)
 
 il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, mentre i rimanenti devono essere compilati dall' utente:
-_**Contesto**_ indica quale sia il campo d' azione della scheda (Istanza, Anagrafe, Attività)
-_**Supporta molteciplità**_
+
+* _**Contesto**_ indica quale sia il campo d' azione della scheda (Istanza, Anagrafe, Attività)
+* _**Supporta molteplicità**_
+* 
 
 
 
