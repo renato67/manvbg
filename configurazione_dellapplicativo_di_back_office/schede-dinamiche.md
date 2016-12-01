@@ -12,8 +12,7 @@ Vediamo come si presenta la scheda per la creazione di un modello di scheda dina
 
 ![](/assets/sk_ricerca_sk_dinamiche.jpg)
 I pulsanti (indicati dalla freccia), svolgono la funzione di:
-* Cercare una specifica scheda, 
-
-
-
+* **Cercare** una specifica scheda che contenga uno dei valori indicati (negli appositi campi per la ricerca) 
+* redigere una **nuova** scheda
+* redigere una nuova scheda **come copia** di una già esistente
 
