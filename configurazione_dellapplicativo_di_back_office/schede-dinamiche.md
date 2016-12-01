@@ -11,6 +11,7 @@ Tramite il menu dello specifico modulo (ad esempio Commercio) è possibile acced
 Vediamo come si presenta la scheda per la creazione di un modello di scheda dinamica.
 
 ![](/assets/sk_ricerca_sk_dinamiche.jpg)
+I pulsanti (indicati dalla freccia), svolgono la funzione di:
 
 
 
