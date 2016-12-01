@@ -8,7 +8,7 @@ Sono un insieme di **Dati**, **codice di programmazione**, **layout di presentaz
 Tramite il menu dello specifico modulo (ad esempio Commercio) è possibile accedere le funzioni precedentemente illustrate:
 ![](/assets/mn_sk_dinamiche.jpg)
 
-
+Vediamo come si presenta la scheda per la creazione di un modello di scheda
 
 
 
