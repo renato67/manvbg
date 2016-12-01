@@ -1,4 +1,4 @@
-#Schede dinamiche
+# #Schede dinamiche
 
 Sono un insieme di **Dati**, **codice di programmazione**, **layout di presentazione**.
 1. I **Dati**, risiedono nel DB. Vengono memorizzati e quindi ripescati da qui.
