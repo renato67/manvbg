@@ -4,6 +4,7 @@ Sono un insieme di **Dati**, **codice di programmazione**, **layout di presentaz
 2. Il **codice di programmazione**, è a supporto di ciascun campo della scheda ed è associato allo specifico campo.
 3. il **layout** di presentazione è costituito dall' insieme di codice e regole che uniformano graficamente l' aspetto del campo al contesto applicativo.
 
-tramite il menu dello specifico modulo (ad esempio Commercio) è possibile accedere le funzioni precedentemente illustrate:
+Tramite il menu dello specifico modulo (ad esempio Commercio) è possibile accedere le funzioni precedentemente illustrate:
+
 
 
