@@ -16,3 +16,4 @@ I pulsanti (indicati dalla freccia), svolgono la funzione di:
 * redigere una **nuova** scheda
 * redigere una nuova scheda **come copia** di una già esistente
 
+
