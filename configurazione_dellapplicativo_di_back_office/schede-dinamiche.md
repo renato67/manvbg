@@ -22,7 +22,8 @@ I pulsanti (indicati dalla freccia), svolgono la funzione di:
 * redigere una **nuova** scheda
 * redigere una nuova scheda **come copia** di una già esistente.
 
-Tramite il tasto **_nuovo_** è possibile creare una nuova scheda. La seguente immagine è la videata che si presenta, alla pressione del tasto
+Tramite il tasto **_nuovo_** è possibile creare una nuova scheda. 
+La seguente immagine è la videata che si presenta, alla pressione del tasto
 ![](/assets/sk_nuovs_sheda.jpg)
 
 il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, mentre i rimanenti devono essere compilati dall' utente:
@@ -32,5 +33,8 @@ il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, me
 * **Storicizza modello**
 * **sola lettura**
 
+## Campi
+
+## Regole
 
 
