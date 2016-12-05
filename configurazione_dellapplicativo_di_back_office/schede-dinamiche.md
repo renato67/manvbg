@@ -12,6 +12,7 @@ Il **layout** di presentazione è costituito dall' insieme di codice e regole ch
 Tramite il menu dello specifico modulo (ad esempio Commercio) è possibile accedere le funzioni precedentemente illustrate:
 ![](/assets/mn_sk_dinamiche.jpg)
 
+## Modelli
 Vediamo come si presenta la scheda per la creazione di un modello di scheda dinamica.
 
 ![](/assets/sk_ricerca_sk_dinamiche.jpg)
