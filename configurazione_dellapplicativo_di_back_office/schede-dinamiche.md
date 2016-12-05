@@ -34,6 +34,14 @@ il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, me
 * **sola lettura**
 
 ## Campi
+accedendo la seguente schermata
+![](/assets/sk_crea_campo.jpg)
+
+è possibile **cercare ** o **creare** nuovi campi da utilizzare in una _scheda dinamica_.
+Premendo il tasto _**NUOVO**_, si accede la videata che consente la creazione di un nuovo campo. 
+![](/assets/sk_crea_campo_2.jpg)
+
+
 
 ## Regole
 
