@@ -27,8 +27,9 @@ Altrimenti, tramite il tasto **_nuovo_** è possibile creare una nuova scheda. L
 il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, mentre i rimanenti devono essere compilati dall' utente:
 
 * _**Contesto**_ indica quale sia il campo d' azione della scheda (Istanza, Anagrafe, Attività)
-* _**Supporta molteplicità**_
-* 
+* _**Supporta molteplicità**_ 
+* **Storicizza modello**
+* **sola lettura**
 
 
 
