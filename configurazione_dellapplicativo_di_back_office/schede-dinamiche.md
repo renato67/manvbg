@@ -31,7 +31,7 @@ il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, me
 * _**Contesto**_ indica quale sia il campo d' azione della scheda (Istanza, Anagrafe, Attività)
 * _**Supporta molteplicità**_  permette di utilizzare la scheda più volte all' interno della Istanza.
 * **Storicizza modello** permette l' uso della scheda in più Istanze e non solo nell' Istanza in cui è stata creata.
-* **sola lettura**
+* **sola lettura** Indica che la scheda può solamente visualizzare i dati memorizzati nel DB, e non memorizzarli.
 
 
 ## Campi
