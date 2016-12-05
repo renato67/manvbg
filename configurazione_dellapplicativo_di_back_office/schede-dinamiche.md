@@ -29,9 +29,10 @@ La seguente immagine è la videata che si presenta, alla pressione del tasto
 il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, mentre i rimanenti devono essere compilati dall' utente:
 
 * _**Contesto**_ indica quale sia il campo d' azione della scheda (Istanza, Anagrafe, Attività)
-* _**Supporta molteplicità**_ 
-* **Storicizza modello**
+* _**Supporta molteplicità**_  permette di utilizzare la scheda più volte all' interno della Istanza.
+* **Storicizza modello** permette l' uso della scheda in più Istanze e non solo nell' Istanza in cui è stata creata.
 * **sola lettura**
+
 
 ## Campi
 accedendo la seguente schermata
@@ -41,7 +42,7 @@ accedendo la seguente schermata
 Premendo il tasto _**NUOVO**_, si accede la videata che consente la creazione di un nuovo campo. 
 ![](/assets/sk_crea_campo_2.jpg)
 
-
+I campi obbligatori, come sempre, sono contrassegnati da * (il Nome, il Contesto e il Tipo), 
 
 ## Regole
 
