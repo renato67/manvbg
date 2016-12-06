@@ -36,6 +36,7 @@ il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, me
 
 ## Campi
 accedendo la schermata
+
 ![](/assets/sk_crea_campo.jpg)
 
 è possibile **cercare ** o **creare** nuovi campi da utilizzare in una _scheda dinamica_.
