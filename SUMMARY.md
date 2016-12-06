@@ -21,4 +21,4 @@
 
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
 
-        *[modelli](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#modelli)
+        *[Modelli](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#modelli)
