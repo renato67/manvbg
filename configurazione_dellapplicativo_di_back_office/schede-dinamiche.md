@@ -43,8 +43,4 @@ accedendo la schermata
 Premendo il tasto _**NUOVO**_, si accede la videata che consente la creazione di un nuovo campo. 
 ![](/assets/sk_crea_campo_2.jpg)
 
-I campi obbligatori, come sempre, sono contrassegnati da * (il Nome, il Contesto e il Tipo), 
-
-## Regole {#regole}
-
-
+I campi obbligatori, come sempre, sono contrassegnati da * (il Nome, il Contesto e il Tipo).
