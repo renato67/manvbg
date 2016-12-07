@@ -11,7 +11,7 @@ Il **layout** di presentazione è costituito dall' insieme di codice e regole ch
 
 Tramite il menu dello specifico modulo (ad esempio Commercio) è possibile accedere le funzioni precedentemente illustrate:
 ![](/assets/mn_sk_dinamiche.jpg)
-## Login {#login} 
+
 ## Modelli {#modelli} 
 Vediamo come si presenta la scheda per la creazione di un modello di scheda dinamica.
 
@@ -34,7 +34,7 @@ il campo _**Id**_ e _**Codice**_ vengono compilati in automatico dal sistema, me
 * **sola lettura** Indica che la scheda può solamente visualizzare i dati memorizzati nel DB, e non memorizzarli.
 
 
-## Campi
+## Campi {#campi}
 accedendo la schermata
 
 ![](/assets/sk_crea_campo.jpg)
@@ -45,6 +45,6 @@ Premendo il tasto _**NUOVO**_, si accede la videata che consente la creazione di
 
 I campi obbligatori, come sempre, sono contrassegnati da * (il Nome, il Contesto e il Tipo), 
 
-## Regole
+## Regole {#regole}
 
 
