@@ -20,4 +20,4 @@
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
 
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
-        * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
+        * [Modelli](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#modelli)
