@@ -6,6 +6,7 @@
     * [nuova pratica da BO](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
 * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md)
     * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
+        * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
     * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)
     * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
     * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle)
