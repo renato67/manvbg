@@ -3,7 +3,7 @@
         "anker-enable"
  ],
    "variables": {
-       "prodotto": "V.B.G."
+       "prodotto": "V.B.G.",
 "structure.glossary": "GLOSSARY.md"
    }
 }
