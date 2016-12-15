@@ -1,5 +1,8 @@
 # Manuale {#manuale}
 
+L’applicativo {{ book.prodotto }} è stato strutturato in modo da dare completo controllo agli operatori di back office abilitati di tutte le funzionalità per la pubblicazione, modifica ed eliminazione dei contenuti di Front Office. Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
+
+---------------------------------------------------------
 R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 
 INDICE
