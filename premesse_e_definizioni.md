@@ -13,4 +13,5 @@ Il secondo è orientato all' utilizzo da parte di operatori delle Istituzioni ch
 Il manuale mostra le pricipali caratteristiche di {{ prodotto }}, ilustrando i metodi di accesso (voci di menù e pulsanti) e la corretta compilazione delle maschere.
 
 Verranno mostrati i principali metodi di lavorazione, per i casi maggiormente usati. 
-Si rimanda al contatto diretto con l' help
+Si rimanda al contatto diretto con l' help per specifihce richieste.
+A tal proposito il manuale non ha la pretesa di illustrare tutte le possibili attività, ma solo, a scopo indicativo, le principali
