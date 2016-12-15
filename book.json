@@ -4,6 +4,6 @@
  ],
    "variables": {
        "prodotto": "V.B.G.",
-"structure.glossary": "./nomi.md"
+"structure.glossary": "nomi.md"
    }
 }
