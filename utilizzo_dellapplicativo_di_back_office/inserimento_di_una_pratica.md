@@ -10,7 +10,7 @@ L’ operazione, consente di creare quella che poi verrà chiamata **istanza.** 
 
 ![](../assets/immagine48.jpg)Analiziamo una delle possibili vie per l’ inserimento di una **istanza**.
 
-![](../assets/immagine49.jpg)Come mostrato in figura, la voce per l’ inserimento, segue il seguente iter:istanze — modulo — Inserimento Rapido Istanza con modulo si intende l’ area a cui l’ intervento è attinente. \(nell’ esempio:”commercio”).
+![](../assets/immagine49.jpg)Come mostrato in figura, la voce per l’ inserimento, segue il seguente iter: istanze — modulo — Inserimento Rapido Istanza ( con "modulo" si intende l’ area a cui l’ intervento è attinente. Nell’ esempio:”commercio”).
 
 Nella maschera dell **istanza**, sono presenti i dati che la identificano univocamente e quindi sono obbligatori. Il nome dei campi obbligatori, è caratterizzato dalla presenza di un asterisco \* accanto al nome \(come mostrato in figura\). Altri dati \(nella figura i campi DATA PRESENTAZIONE NUMERO DI PROTOCOLLO e relative data e ora\) possono risultare obbligatori se definiti tali in sede di configurazione. Per tale motivo, vengono bordati di rosso \(ma non hanno il simbolo dell’ asterisco\).
 
