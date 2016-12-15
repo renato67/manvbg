@@ -4,7 +4,7 @@ La “**pratica**” é costituita, normalmente, dall’ insieme dei documenti i
 
 ### Inserimento di una istanza {#inserimento-di-una-istanza}
 
-L’ operazione, consente di creare quella che poi verrà chiamata **istanza.** Questa, rappresenta la sintesi dell insieme di dati che comunemente é conosciuta dall’ impiegato comunale con il nome di pratica: ovvero tutti i dati necessari per l’espletamento delle operazioni atte a censire, autorizzare o meno una operazione che il cittadino intende compiere sulla proprietà privata o pubblica.
+L’ operazione, consente di creare quella che poi verrà chiamata **istanza.** Questa rappresenta la sintesi dell insieme di dati che comunemente é conosciuta dall’ impiegato comunale con il nome di pratica: ovvero tutti i dati necessari per l’espletamento delle operazioni atte a censire, autorizzare o meno una operazione che il cittadino intende compiere sulla proprietà privata o pubblica.
 
 ### Dati obbligatori {#dati-obbligatori}
 
