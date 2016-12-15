@@ -1,3 +1,9 @@
+## DB
+Acronimo di Data Base
+
+## Data Base
+Struttura logica di un file contenente le informazioni raccolte nell' utilizzo dell' applicativo
+
 ## BO
 Back Office. Ovvero la parte del programma acceduta esclusivamente da personale incaricato presso il Comune
 ## FO
