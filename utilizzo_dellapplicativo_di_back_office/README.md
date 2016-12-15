@@ -2,7 +2,7 @@
 
 
 
-descriviamo ora, alcune delle principali funzioni dell' applicativo
+Descriviamo alcune delle principali funzioni dell' applicativo
 
 
 
