@@ -1,6 +1,7 @@
 # Manuale {#manuale}
 
-L’applicativo {{ book.prodotto }} è stato strutturato in modo da dare completo controllo agli operatori di back office abilitati di tutte le funzionalità per la pubblicazione, modifica ed eliminazione dei contenuti di Front Office. Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
+L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli operatori di back office il completo controllo e abilitati a tutte le funzionalità per la pubblicazione, modifica ed eliminazione dei contenuti di Front Office. 
+Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 
 ---------------------------------------------------------
 R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
@@ -39,18 +40,6 @@ INDICE
 
 2.3.
 
-I
-
-rimanenti campi particolareggiano l’ intervento, ma non sono obbligatori.
-
-Il nome
-
-del campo
-
-fornisce intuitivamente il tipo di informazione necessaria
-
-16
-
 2.4. Dati disponibili dopo il primo salvataggio16
 
 2.4.1. Endoprocedimenti17
@@ -76,9 +65,6 @@ fornisce intuitivamente il tipo di informazione necessaria
 2. Gestione di una pratica26
 
 3. Gestione attività26
-
-
-. Configurazione dell’applicativo di Back Office26
 
 1. Tabelle di base26
 
