@@ -13,7 +13,7 @@
     * [Campi di input di tipo Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_di_tipo_data)
     * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#upload_di_un_file)
 * [Inserimento di una Pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md#inserimento-di-una-istanza)
-    * [Inserimento di una pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md#)
+    * [Inserimento di una Istanza](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md#)
 
 * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
 * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)
