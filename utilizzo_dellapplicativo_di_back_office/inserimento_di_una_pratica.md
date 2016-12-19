@@ -17,7 +17,6 @@ Nella maschera dell **istanza**, sono presenti i dati che la identificano univoc
 ![](../assets/immagine50.jpg)Nel caso in cui tali dati venissero omessi, il programma visualizzerà un errore e i campi obbligatori omessi verranno evidenziati con un contorno rosso.
 
 #### Inserimento e modifica di una anagrafica {#inserimento-e-modifica-di-una-anagrafica}
-
 Fra i primi e più importanti dati da immettere, vi è il RICHIEDENTE. Questo campo può essere popolato anche tramite la _ricerca referenziata._ Oppure, se l’ anagrafica non è già stata censita, è possibile inserirla tramite il tasto![](../assets/immagine51.jpg)verde. Alla pressione del tasto, si aprirà la scheda per l’ immissione della anagrafica \(vedi figura\)
 
 ![](../assets/immagine52.jpg)la scheda permette l’ immissione di numerose informazioni inerenti il soggetto censito
