@@ -1,7 +1,3 @@
-## Inserimento di una pratica {#inserimento-di-una-pratica}
-
-La “**pratica**” é costituita dall’ insieme dei documenti inerenti una specifica operazione che un privato cittadino o soggetto giuridico compie al fine di “notificare” agli enti pubblici preposti \(e quindi ottenere il permesso di farlo\)  l' operazione che intende fare.
-
 ### Inserimento di una istanza {#inserimento-di-una-istanza}
 
 L’ operazione, consente di creare quella che poi verrà chiamata **istanza.** Questa rappresenta la sintesi dell insieme di dati che comunemente é conosciuta dall’ impiegato comunale con il nome di pratica: ovvero tutti i dati necessari per l’espletamento delle operazioni atte a censire, autorizzare o meno una operazione che il cittadino intende compiere sulla proprietà privata o pubblica.

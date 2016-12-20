@@ -11,7 +11,6 @@
         * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_referenziati)
         * [Campi di input di tipo Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_di_tipo_data)
         * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#upload_di_un_file)
-
     * [nuova pratica da BO](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
 * [Inserimento di una Pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)
     * [Inserimento di una Istanza](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md#inserimento-di-una-istanza)
