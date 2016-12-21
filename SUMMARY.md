@@ -17,7 +17,7 @@
     * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
     * [Dati obbligatori](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md#dati-obbligatori)
     * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
-    * [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)
+    <!-->* [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)<-->
     * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
   * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
