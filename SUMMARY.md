@@ -15,7 +15,8 @@
     <!-->* [Inserimento di una Pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)<-->
   * [Inserimento di una Istanza](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
       * [Dati obbligatori](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#dati-obbligatori)
-  * [Inserimento e modifica anagrafica](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#inserimento-e-modifica-di-una-anagrafica)
+      * [Inserimento e modifica anagrafica](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#inserimento-e-modifica-di-una-anagrafica)
+    * [Dati disponibili dopo il primo salvataggio](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#dati-disponibili-dopo-il-primo-salvataggio)
   * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
     <!-->* [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)<-->
   * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
