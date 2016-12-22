@@ -15,10 +15,10 @@
     <!-->* [Inserimento di una Pratica](utilizzo_dellapplicativo_di_back_office/inserimento_di_una_pratica.md)<-->
   * [Inserimento di una Istanza](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
       * [Dati obbligatori](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#dati-obbligatori)
-      * [Inserimento e modifica anagrafica](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#inserimento-e-modifica-di-una-anagrafica)
-    * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
+  * [Inserimento e modifica anagrafica](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#inserimento-e-modifica-di-una-anagrafica)
+  * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
     <!-->* [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)<-->
-    * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
+  * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
   * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
   * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
