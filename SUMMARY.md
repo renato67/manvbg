@@ -18,7 +18,14 @@
       * [Inserimento e modifica anagrafica](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#inserimento-e-modifica-di-una-anagrafica)
   * [Dati disponibili dopo il primo salvataggio](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#dati-disponibili-dopo-il-primo-salvataggio)
     * [Endoprocedimenti](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#endoprocedimenti)
-
+    * [Schede](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#schede)
+    * [Soggetti collegati](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#soggetti-collegati)
+    * [Documenti](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#documenti)
+    * [Gestione oneri](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#gestione-oneri)
+    * [Autorizz. / Concess.](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#autorizz-conc)
+    * [Stampe](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#stampe)
+    * [Istanze collegate](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#istanze-collegate)
+    * [Altre funzioni](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#altre-funzioni)
   * [Ricerca di una pratica](utilizzo_dellapplicativo_di_back_office/ricerca_di_una_pratica.md)
     <!-->* [Gestione di una pratica](utilizzo_dellapplicativo_di_back_office/gestionedi_una_pratica.md)<-->
   * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
