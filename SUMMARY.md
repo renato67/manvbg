@@ -22,7 +22,7 @@
     * [Soggetti collegati](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#soggetti-collegati)
     * [Documenti](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#documenti)
     * [Gestione oneri](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#gestione-oneri)
-    * [Autorizz. / Concess.](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#autorizz-conc)
+    * [Autorizz. / Concess.](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#autoriz-conc)
     * [Stampe](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#stampe)
     * [Istanze collegate](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#istanze-collegate)
     * [Altre funzioni](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#altre-funzioni)
