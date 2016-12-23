@@ -56,7 +56,7 @@ A seguito dell’ inserimento di una istanza, è possibile editarla nuovamente p
 
 ![](../assets/immagine25.png):Salva le modifiche apportate alle schede.![](../assets/immagine26.png):Ritorna alla pagina precedente.
 
-#### Soggetti colegati {#soggetti-colegati}
+#### Soggetti colegati {#soggetti-collegati}
 
 ![](../assets/immagine27.jpg)Sono censiti in questa scheda i soggetti \(fisici o giuridici\) che non trovano posizione fra i campi principali della Istanza. Vengono selezionate dall’ archivio Anagrafe esistente per i vari soggetti.
 
