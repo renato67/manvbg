@@ -8,7 +8,7 @@ Come si evince dal diagramma di flusso
 
 il primo blocco cita la presentazione di una domanda. Questa fase può essere compiuta
 
-* [sia da un operatore del comune ](/utilizzo_dellapplicativo_di_back_office/README.md)
+* [sia da un operatore del comune ](/utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md)
 * che dall' utente finale \(utilizzando lo sportello di front Office\). 
 * o inviando una semplice PEC\)
 
