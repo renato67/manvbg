@@ -12,5 +12,3 @@ il primo blocco cita la presentazione di una domanda. Questa fase può essere co
 * che dall' utente finale \(utilizzando lo sportello di front Office\). 
 * o inviando una semplice PEC\)
 
-Analiziamo il il primo caso:
-
