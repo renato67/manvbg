@@ -60,7 +60,7 @@ Accedendo ad una qualunque funzionalità dell’applicativo \(tranne quella di g
 
 ## Upload di un file {#upload_di_un_file}
 
-All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/immagine45.jpg) verrà visualizzata la seguente pagi![](../assets/immagine46.jpg)nain questa tabella, sono visibile tutti i documenti presenti la loro posizione all’ interno all’ interno della Istanza \(endoprocedimenti, movimenti\)Cliccando il pulsante “Nuovo” è possibile inserire un nuovo file. Nella descrizione è possibile inserire il nome del documentoSu documento da allegare “Allega un file”, selezionando **scegli file** è possibile determinare il documento desiderato. Cliccando su “inserisci” viene caricato il documento.
+All’ interno di una Istanza, posizionandosi sul tab DOCUMENTI![](../assets/immagine45.jpg) verrà visualizzata la seguente pagina![](../assets/immagine46.jpg)in questa tabella, sono visibile tutti i documenti presenti la loro posizione all’ interno della Istanza \(endoprocedimenti, movimenti\)Cliccando il pulsante “Nuovo” è possibile inserire un nuovo file. Nella descrizione è possibile inserire il nome del documento. Su documento da allegare “Allega un file”, selezionando **scegli file** è possibile determinare il documento desiderato. Cliccando su “inserisci” viene caricato il documento.
 
 ![](../assets/immagine13.png)
 
