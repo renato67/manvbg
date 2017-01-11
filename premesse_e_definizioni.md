@@ -15,3 +15,5 @@ Il manuale mostra le pricipali caratteristiche di {{ book.prodotto }}, ilustrand
 Verranno mostrati i principali metodi di lavorazione, per i casi maggiormente usati. 
 Si rimanda al contatto diretto con l' help desk per specifihce richieste.
 A tal proposito il manuale non ha la pretesa di illustrare tutte le possibili attività, ma solo, a scopo indicativo, le principali
+
+{{ book.versioning}}
