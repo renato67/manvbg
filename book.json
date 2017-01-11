@@ -1,8 +1,10 @@
 {
- "plugins": [
-        "anker-enable"
- ],
-   "variables": {
-       "prodotto": "V.B.G."
-   }
+    "variables": {
+        "prodotto": "V.B.G."
+    },
+    "plugins": [
+        "anker-enable",
+        "versioning",
+        "versions"
+    ]
 }
