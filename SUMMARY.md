@@ -7,7 +7,7 @@
         * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
         * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)
         * [Pulsantiera](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#pulsantiera)
-     <!--   * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle) -->
+        * [Tabelle](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#tabelle) 
         * [Campi di input referenziati](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_referenziati)
         * [Campi di input di tipo Data](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#campi_di_input_di_tipo_data)
         * [Upload di un file](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#upload_di_un_file)
@@ -27,7 +27,7 @@
     * [Altre funzioni](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#altre-funzioni)
     * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
-    * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)
+<!--    * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md)-->
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
         * [Modelli](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#modelli)
         * [Campi](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#campi)
