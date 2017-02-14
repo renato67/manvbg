@@ -9,6 +9,7 @@ Per questo motivo il presente manuale, nella sezione “Configurazione del siste
 [//]: ---------------------------------------------------------
 [comment]: R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 INDICE
+{>>This is a comment<<}
 
 > 
 
