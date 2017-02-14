@@ -27,7 +27,7 @@
     * [Altre funzioni](utilizzo_dellapplicativo_di_back_office/nuova_pratica_da_back_office.md#altre-funzioni)
     * [Gestione Attività](utilizzo_dellapplicativo_di_back_office/gestione-attività.md)
 * [Configurazione dell’applicativo di Back Office](configurazione_dellapplicativo_di_back_office.md)
-<!--    * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md) -->
+    * [Tabelle di base](configurazione_dellapplicativo_di_back_office/tabelle_di_base.md) -->
     * [Schede Dinamiche](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md)
         * [Modelli](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#modelli)
         * [Campi](configurazione_dellapplicativo_di_back_office/schede-dinamiche.md#campi)
