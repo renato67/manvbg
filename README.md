@@ -8,7 +8,7 @@ Per questo motivo il presente manuale, nella sezione “Configurazione del siste
 {% comment %} 
 INDICE
 ---------------------------------------------------------
-
+<!-- Markdown version 
 
  R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 
