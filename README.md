@@ -6,6 +6,7 @@ L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli opera
  
 Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 
+{>>This is a comment
 INDICE
 ---------------------------------------------------------
 
@@ -75,4 +76,4 @@ INDICE
 
 1. Tabelle di base26
 
--->
+<<}
