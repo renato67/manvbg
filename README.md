@@ -6,12 +6,15 @@ L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli opera
  
 Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 
-[//]: ---------------------------------------------------------
-[comment]: R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 INDICE
-{>>This is a comment<<}
+{>>
+ ---------------------------------------------------------
+ R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
+
 
 > 
+<<}
+
 
 . Premesse e definizioni
 
