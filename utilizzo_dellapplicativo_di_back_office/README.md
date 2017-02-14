@@ -2,7 +2,9 @@
 
 Come già detto. {{ book.prodotto }} è costituito da due moduli che possono lavorare in sinergia.
 
-Di seguito vengono descritte le principali INIZIOCOMMENTO {>>This is a comment<<}funzionalità che sono messe a disposizione dell' operatore (quindi parleremo del Back office).
+Di seguito vengono descritte le principali 
+> INIZIOCOMMENTO {>>This is a comment<<}
+> funzionalità che sono messe a disposizione dell' operatore (quindi parleremo del Back office).
 
 
 
