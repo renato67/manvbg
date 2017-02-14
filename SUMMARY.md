@@ -1,8 +1,8 @@
 # Summary
 
-<!-- * [Manuale](README.md)
+<!-- * [Manuale](README.md)-->
 * [Premesse e definizioni](premesse_e_definizioni.md)
-* [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md) -->
+* [Utilizzo dell’applicativo di Back Office](utilizzo_dellapplicativo_di_back_office/README.md)
     * [Funzionalità di base](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md)
         * [Login](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#login)
         * [Menu e toolbar](utilizzo_dellapplicativo_di_back_office/funzionalita_di_base.md#menu_e_toolbar)

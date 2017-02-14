@@ -1,6 +1,6 @@
 # Manuale {#manuale}
 
-{{book.verion}}
+{{book.version}}
 
 L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli operatori di back office il completo controllo e abilitarli a tutte le funzionalità: creazione, pubblicazione, modifica ed eliminazione dei contenuti.
  
