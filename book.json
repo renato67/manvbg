@@ -9,3 +9,11 @@
         "versions"
     ]
 }
+{
+    "plugins": [ "versions" ],
+    "pluginsConfig": {
+        "versions": {
+            "type": "branches"
+        }
+    }
+}
