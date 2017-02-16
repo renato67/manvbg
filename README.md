@@ -11,7 +11,7 @@ L’app licativo {{ book.prodotto }} è strutturato in modo da fornire agli oper
 Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, 
 farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 
-<!--
+<!---
 
 
 
