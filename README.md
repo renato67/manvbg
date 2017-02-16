@@ -2,9 +2,6 @@
 
 {{book.versions}}
 
-Branches (branches)
-Tags (tags)
-Languages (languages)
 
 L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli operatori di back office il completo controllo e abilitarli a tutte le funzionalità: creazione, pubblicazione, modifica ed eliminazione dei contenuti.
 
@@ -14,7 +11,6 @@ L’applicativo {{ book.prodotto }} è strutturato in modo da fornire agli opera
 Per questo motivo il presente manuale, nella sezione “Configurazione del sistema”, farà riferimento a funzionalità prettamente di Back Office che verranno poi riprese ed ampliate nel relativo manuale.
 INDICE
 ---------------------------------------------------------
-<!-- Markdown version 
 
  R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
 
@@ -81,6 +77,3 @@ INDICE
 3. Gestione attività26
 
 1. Tabelle di base26
-
-<<}
-{% endcomment %}
