@@ -2,9 +2,4 @@
     "variables": {
         "prodotto": "V.B.G."
     },
-    "plugins": [
-        "anker-enable",
-        "versioning",
-        "versions"
-    ]
-}
+  }
