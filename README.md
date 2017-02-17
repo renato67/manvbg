@@ -1,4 +1,4 @@
-# Manuale1 {#manuale}
+# Manuale {#manuale}
 
 {{book.versions}}
 
