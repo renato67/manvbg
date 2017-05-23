@@ -1,4 +1,4 @@
-# Manuale {#manuale}
+![](/assets/cover.jpg)# Manuale {#manuale}
 
 {{book.versions}}
 
