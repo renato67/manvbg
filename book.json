@@ -1,6 +1,6 @@
 {
     "variables": {
-        "prodotto": "V.B.G."
+        "prodotto": "V.B.G.",
         "book.versions": "1.0"
     }
   }
