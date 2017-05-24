@@ -1,5 +1,3 @@
-
-
 {{book.versions}}
 
 
