@@ -1,7 +1,7 @@
 {{ book.versions }}
 
 
-L’app licativo {{ book.prodotto }} è strutturato in modo da fornire agli operatori di back office il completo controllo e abilitarli a tutte le funzionalità: creazione, pubblicazione, modifica ed eliminazione dei contenuti.
+L’ app licativo {{ book.prodotto }} è strutturato in modo da fornire agli operatori di back office il completo controllo e abilitarli a tutte le funzionalità: creazione, pubblicazione, modifica ed eliminazione dei contenuti.
 
 [comment]: <> (This is a comment, it will not be included)
 
