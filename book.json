@@ -2,7 +2,7 @@
     "variables": {
         "prodotto": "V.B.G.",
         "versions": "1.0"
-    }
+    
      "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
