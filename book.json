@@ -1,34 +1,27 @@
 {
-"variables": {
-"prodotto": "V.B.G.",
-"versions": "1.0"
+      "plugins": ["autocover"],
+      
+      "variables": {
+            "prodotto": "V.B.G.",
+            "versions": "1.0"
+      },
+            
+      "pluginsConfig": {
+            "autocover": {
+                  "title": "My Book",
+                  "author": "Author",
+                  "font": {
+                        "size": null,
+                        "family": "Impact",
+                        "color": "#FFF"
+                  },
+                  "size": {
+                        "w": 1800,
+                        "h": 2360
+                  },
+                  "background": {
+                        "color": "#09F"
+                  }
             }
-{
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            // Configuration for autocover (see below)
-            {
-    "title": "My Book",
-    "author": "Author",
-    "pluginsConfig": {
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        }
-    }
-}
-        }
-    }
-}
+      }
 }
