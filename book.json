@@ -8,7 +8,7 @@
             
       "pluginsConfig": {
             "autocover": {
-                  "title": "Manuale" ,
+                  "title": {{ prodotto}},
                   "author": "Author",
                   "font": {
                         "size": null,
