@@ -3,7 +3,4 @@
 "prodotto": "SIGePro",
 "versions": "1.0"
 }
-    "plugins": [
-        "nocache"
-    ]
 }
