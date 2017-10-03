@@ -13,7 +13,7 @@ farà riferimento a funzionalità prettamente di Back Office che verranno poi ri
 
 
 
-INDICE
+INDICE 
 ---------------------------------------------------------
 
  R.A.Ri. SUAP MANUALE DI UTILIZZO E CONFIGURAZIONE DELL’APPLICATIVO DI BACK OFFICE
