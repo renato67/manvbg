@@ -10,7 +10,7 @@ il primo blocco cita la presentazione di una domanda. Questa fase può essere co
 
 * [sia da un operatore dell' Ente ](/utilizzo_dellapplicativo_di_back_office/README.md)
 * che dall' utente finale \(utilizzando lo sportello di front Office\). 
-* o inviando una semplice PEC\)
+* o inviando una semplice PEC
 
 
 
